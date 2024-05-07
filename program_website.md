@@ -4,25 +4,31 @@
 
 ### Wednesday, 2 of October
 
+Example
+
 ![table_example](https://raw.githubusercontent.com/lherzolite2024/programme/main/imgs/table_example.png)
 
 ### Tuesday, 3 of October
 
-
+TODO
 
 ### Friday, 4 of October
 
-
+TODO
 
 # List of Abstracts, talks
+
+## Session 1. Mantle-Crust Interaction and Melt Generation
 
 ### Seismic Tomography and Mantle Structure below...
 
 **J. Doe^1^**
 
-^1^Name of the Institution, Address, https://orcid.org/0000-0002-1825-0097
+^1^Name of the Institution, Address
 
 > **When**: Tuesday 3rd at 10:15
+>
+> **Presenter**: J. Doe https://orcid.org/0000-0002-1825-0097
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a faucibus lorem, et tempor enim. Donec pharetra lacinia diam vel interdum. Nullam suscipit felis non tortor imperdiet, in tincidunt magna semper. Donec sit amet convallis nibh, vel dictum libero. Duis sit amet mi nisi. Sed luctus eleifend volutpat. Donec lorem ipsum, luctus ac vulputate et, pharetra nec orci.
 
@@ -34,19 +40,28 @@ _Girardeau, J., Ibarguchi, J.I.G., Jamaa, N.B., 1989. Evidence for a Heterogeneo
 
 ---
 
-### Another title and abstract
+### Vertical depletion of ophiolitic mantle reflects melt focusing and interaction in sub-spreading-center asthenosphere
 
-**M. Gupta^1^**
+**Qing Xiong**^1,2^, Hong-Kun Dai1^1,2^, Jian-Ping Zheng^1^, William L. Griffin^2^, Hong-Da Zheng^1^, Li Wang^1^, Suzanne Y. O’Reilly^2^
 
-^1^Name of the Institution, Address, https://orcid.org/0000-0002-1825-0097
+_^1^State Key Laboratory of Geological Processes and Mineral Resources, School of Earth Sciences, China University of Geosciences, Wuhan 430074, China._
+_^2^Australian Research Council Centre of Excellence for Core to Crust Fluid Systems (CCFS) and GEMOC, School of Natural Sciences, Macquarie University, NSW 2109, Australia_
 
-> **When**: Friday 4th at 12:40
+> **When**: To set
+>
+> **Presenter**: Q. Xiong https://orcid.org/0000-0002-1825-0097
 
-...
+Decompressional melting ... This model provides insights into melt extraction and uppermost-mantle origin beneath spreading centers with high melt fluxes (Xiong et al., 2022).
+
+_Xiong, Q., Dai, H.K., Zheng, J.P., Griffin, W.L., Zheng, H.D., Wang, L., O’Reilly, S.Y., 2022. Vertical depletion of ophiolitic mantle reflects melt focusing and interaction in sub-spreading-center asthenosphere. Nature Communications 13, 6956. https://doi.org/10.1038/s41467-022-34781-w_
+
+
+
+## Session 2: Interdisciplinary Perspectives and Future Directions
+
+TODO
 
 ---
-
-
 
 # List of Abstracts, posters
 
@@ -73,7 +88,7 @@ Holland, T.J.B., Green, E.C.R., Powell, R., 2018. Melting of Peridotites through
 
 
 
-# List of participants
+# List of participants in alphabetic order
 
 |                                 |                                                    |
 | ------------------------------- | -------------------------------------------------: |
@@ -91,7 +106,7 @@ Holland, T.J.B., Green, E.C.R., Powell, R., 2018. Melting of Peridotites through
 
 # Useful information
 
-Map of the...TODO
+👉 Map of the site
 
 **Talks** will be held at the Conference Hall University of Oviedo. It is situated on the first floor of the central courtyard and has access through stairs located at the ground floor.
 
