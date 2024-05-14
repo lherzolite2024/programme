@@ -27,8 +27,7 @@ TODO
 ^1^Name of the Institution, Address
 
 > **When**: Tuesday 3rd at 10:15
->
-> **Presenter**: J. Doe https://orcid.org/0000-0002-1825-0097
+> **Speaker**: John Doe https://orcid.org/0000-0002-1825-0097
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a faucibus lorem, et tempor enim. Donec pharetra lacinia diam vel interdum. Nullam suscipit felis non tortor imperdiet, in tincidunt magna semper. Donec sit amet convallis nibh, vel dictum libero. Duis sit amet mi nisi. Sed luctus eleifend volutpat. Donec lorem ipsum, luctus ac vulputate et, pharetra nec orci.
 
@@ -48,8 +47,7 @@ _^1^State Key Laboratory of Geological Processes and Mineral Resources, School o
 _^2^Australian Research Council Centre of Excellence for Core to Crust Fluid Systems (CCFS) and GEMOC, School of Natural Sciences, Macquarie University, NSW 2109, Australia_
 
 > **When**: To set
->
-> **Presenter**: Q. Xiong https://orcid.org/0000-0002-1825-0097
+> **Speaker**: Q. Xiong https://orcid.org/0000-0002-1825-0097
 
 Decompressional melting ... This model provides insights into melt extraction and uppermost-mantle origin beneath spreading centers with high melt fluxes (Xiong et al., 2022).
 
@@ -69,10 +67,12 @@ TODO
 
 **L. Wu^1^, S. White^2^**
 
-^1^Name of the Institution, Address, https://orcid.org/0000-0002-1825-0097
-^2^Name of the Institution, Address, https://orcid.org/0000-0002-1825-0097
+^1^Name of the Institution, Address
+^2^Name of the Institution, Address
 
 > **When**: Wednesday 2nd, poster session from 17:05 to 19:00 h
+> **Poster location**: Panel A34
+> **Presenter**: L. Wu https://orcid.org/0000-0002-1825-0097
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a faucibus lorem, et tempor enim. Donec pharetra lacinia diam vel interdum. Nullam suscipit felis non tortor imperdiet, in tincidunt magna semper. Donec sit amet convallis nibh, vel dictum libero. Duis sit amet mi nisi. Sed luctus eleifend volutpat. Donec lorem ipsum, luctus ac vulputate et, pharetra nec orci.
 
