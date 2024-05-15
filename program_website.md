@@ -72,7 +72,7 @@ TODO
 
 > **When**: Wednesday 2nd, poster session from 17:05 to 19:00 h
 > **Poster location**: Panel A34
-> **Presenter**: L. Wu https://orcid.org/0000-0002-1825-0097
+> **Presenting author**: L. Wu https://orcid.org/0000-0002-1825-0097
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a faucibus lorem, et tempor enim. Donec pharetra lacinia diam vel interdum. Nullam suscipit felis non tortor imperdiet, in tincidunt magna semper. Donec sit amet convallis nibh, vel dictum libero. Duis sit amet mi nisi. Sed luctus eleifend volutpat. Donec lorem ipsum, luctus ac vulputate et, pharetra nec orci.
 
