@@ -59,7 +59,7 @@ The depleted mantle is a principal component of the upper mantle and drives sign
 
 Here, we report the recovery of a long (1268 m) section of serpentinized abyssal mantle peridotite, interleaved with thin gabbroic intrusions, from Atlantis Massif (Mid-Atlantic Ridge) during IODP Expedition 399. The nearly continuous recovery in the principal hole (U1601C) provides an opportunity to obtain a robust and quantitative lithological, mineralogical, and structural inventory of the upper mantle. 
 
-The peridotites are dominated by harzburgite (82%; Fig. 1), with significant dunite (18%); lherzolite is rare, as are ultramafic veins (wehrlite, orthopyroxenite, (olivine) websterite). Mineralogically and geochemically, the peridotites are depleted: harzburgites have low orthopyroxene content (average 15.9%) and often lack clinopyroxene altogether. Geochemically, the peridotites have high MgO/SiO2 and low Al2O3/SiO2, falling on the depleted end of the array defined by global mantle rocks.
+The peridotites are dominated by harzburgite (82%; Fig. 1), with significant dunite (18%); lherzolite is rare, as are ultramafic veins (wehrlite, orthopyroxenite, (olivine) websterite). Mineralogically and geochemically, the peridotites are depleted: harzburgites have low orthopyroxene content (average 15.9%) and often lack clinopyroxene altogether. Geochemically, the peridotites have high MgO/SiO~2~ and low Al~2~O~3~/SiO~2~, falling on the depleted end of the array defined by global mantle rocks.
 
 Orthopyroxene abundance varies significantly on scales ranging from the centimeter to hundreds of meters, forming a continuum from 0-30%. Dunite occurs as zones in harzburgite and, more frequently, in orthopyroxene-bearing dunite, and are typically tens of centimeters thick. Contacts between dunite and the surrounding peridotites are nearly always gradational, and well-defined dunite zones are an endmember of a continuum of variations in orthopyroxene content in the mantle rocks, with the full spectrum of harzburgite to dunite preserved in the core. We posit that the observed variations in mineralogy and therefore lithology are controlled by melt migration and the associated dissolution of orthopyroxene and precipitation of olivine, superimposed on the residues of relatively high degrees of melting.
 
@@ -89,7 +89,7 @@ Here, we present microstructural and petrological evidence of reactive melt perc
 
 The studied samples pertain to the upper mantle section of the Wadi Tayin massif. They were selected according to their textural features and depth from the MTZ, to observe possible variations in the modes and extent of the reactive melt percolation process as a function of depth in the mantle. The entire sample set was collected by our research team during the OmanDP core logging of the CM (Crust-Mantle transition) Sites (2017- 2018; Kelemen et al., 2020) and a field campaign along the Wadi Nassif (February 2024). The latter allowed sampling of the shallow harzburgitic mantle down to ~800 m below the MTZ, and better documenting the macro- to micro-scale distribution and interplays between melt transport and shallow mantle deformation at the crust-mantle interface. 
 
-The studied harzburgites display a porphyroclastic association of Ol+Opx± Cpx±Spl and a weak mantle foliation defined by the elongation and alignment of orthopyroxene and/or spinel grains. Opx porphyroclasts show diffuse Cpx exsolutions and are partially to completely replaced by granoblastic aggregates composed of Opx+Cpx±Spl.  The granoblastic association is formed by the progressive cooling of the harzburgite at subsolidus lithospheric conditions (T= 950–1050 °C as determined by Opx – Cpx geothermometers). Both pyroxene porphyroclasts and granoblasts show lobate contacts with interstitial olivine crystals, suggesting reactive melt percolation that involved pyroxene dissolution and crystallization of new olivine from the migrating melt. Different pyroxene generations (porphyroclastic and granoblastic) exhibit similar major element compositions. 
+The studied harzburgites display a porphyroclastic association of Ol+Opx±Cpx±Spl and a weak mantle foliation defined by the elongation and alignment of orthopyroxene and/or spinel grains. Opx porphyroclasts show diffuse Cpx exsolutions and are partially to completely replaced by granoblastic aggregates composed of Opx+Cpx±Spl. The granoblastic association is formed by the progressive cooling of the harzburgite at subsolidus lithospheric conditions (T= 950–1050 °C as determined by Opx – Cpx geothermometers). Both pyroxene porphyroclasts and granoblasts show lobate contacts with interstitial olivine crystals, suggesting reactive melt percolation that involved pyroxene dissolution and crystallization of new olivine from the migrating melt. Different pyroxene generations (porphyroclastic and granoblastic) exhibit similar major element compositions. 
 
 Crystallographic Preferred Orientations (CPO) of orthopyroxene show patterns characteristic of upper mantle deformation under high-T and dry conditions. In contrast, the olivine CPO varies from axial-[100] patterns, coherent with olivine from upper mantle peridotite deformed under high T and dry conditions (Tommasi et al., 2000), to axial-[010] patterns, indicating deformation in the presence of melt (Zimmerman et al., 1999). Such CPO transition is correlated with olivine modal contents increasing from 65% to 80%. Harzburgites with lower modal olivine contents show weak axial-[100] olivine CPO, whereas samples with higher modal olivine abundances have well-defined axial-[010] olivine CPO. Harzburgite modal composition and CPO evolution are interpreted as being controlled by the melt-rock ratio integrated over time similar to what proposed by (Higgie & Tommasi, 2012) for the MTZ. Harzburgites preserving lower olivine modal amount and axial-[100] CPO record lower melt-rock ratio over time compared to those characterized by stronger axial-[010] CPO symmetry and high olivine modal contents.
 
@@ -119,7 +119,7 @@ Oceanic spreading is one of the core processes of modern plate tectonics. In oce
 
 Based on these lines of evidence, we suggest that the formation processes of the multiple types of Dazhuka dunites reveal unique dynamic characteristics of asthenosphere upwelling beneath oceanic slow-ultraslow spreading centers. In the first stage, silica-unsaturated melts were formed by stronger asthenospheric upwelling and reacted with wall-rock harzburgites to gradually formed Type 1 and Type 2 dunites. In the second stage, the upwelling of asthenosphere with the dunitic channels became weaker, ambient silica-saturated melts were focused into the dunitic channels and reacted with Type 2 dunites to form Type 3A/3B dunites. Eventually, when the dunitic channels became a part of the lithospheric mantle, the asthenospheric upwelling almost stagnated and formed volatile-rich melts or fluids to metasomatize the dunitic channels within the lithosphere. This study thus shows that asthenospheric upwelling may be pulsed under oceanic slow-ultraslow spreading center. 
 
-Keywords: Oceanic slow-ultraslow spreading centers, Dunitic channels, Melt-rock interaction, Dazhuka ophiolite in Tibet
+**Keywords**: Oceanic slow-ultraslow spreading centers, Dunitic channels, Melt-rock interaction, Dazhuka ophiolite in Tibet
 
 **References**
 
@@ -143,7 +143,7 @@ _^1^Université Clermont Auvergne, Laboratoire Magmas et Volcans LMV, France
 > **When**: Wednesday 2nd october at 10:30 am
 > **Speaker**: Jessy Dominique; https://orcid.org/0009-0006-1335-677X
 
-Kimberlites give an exceptional insight of the deep cratonic mantle by exhuming at an extreme pace well-preserved peridotites from a wide range of depths. The fast exhumation velocity of peridotite limits diffusion of incompatible trace elements (REE, hydrogen) due to the interaction between the ascending kimberlite melt and the rock and allows to measure pristine water contents in nominally anhydrous minerals (NAMs). Water is regarded as a key parameter as it may impact, depending on its concentration, physical parameters such as rheology and partial melting. This study is focused on the petrology and water quantification of 17 spinel and garnet harzburgites scattered over a wide range of pressure (25 to 51 kbar) from Jagersfontein mine located at the rim of the Kaapvaal craton. Sampling was focused on poorly metasomatized, ultra-refractory harzburgites (Fo92-95) which are considered to represent the most preserved cratonic archean mantle. Water content was obtained from FTIR spectroscopy on the most representative phases: olivine, orthopyroxexe, clinopyroxene and garnet. The aim of this study is to investigate the relation between petrology, water content of non-metasomatized cratonic mantle.
+Kimberlites give an exceptional insight of the deep cratonic mantle by exhuming at an extreme pace well-preserved peridotites from a wide range of depths. The fast exhumation velocity of peridotite limits diffusion of incompatible trace elements (REE, hydrogen) due to the interaction between the ascending kimberlite melt and the rock and allows to measure pristine water contents in nominally anhydrous minerals (NAMs). Water is regarded as a key parameter as it may impact, depending on its concentration, physical parameters such as rheology and partial melting. This study is focused on the petrology and water quantification of 17 spinel and garnet harzburgites scattered over a wide range of pressure (25 to 51 kbar) from Jagersfontein mine located at the rim of the Kaapvaal craton. Sampling was focused on poorly metasomatized, ultra-refractory harzburgites (Fo~92-95~) which are considered to represent the most preserved cratonic archean mantle. Water content was obtained from FTIR spectroscopy on the most representative phases: olivine, orthopyroxexe, clinopyroxene and garnet. The aim of this study is to investigate the relation between petrology, water content of non-metasomatized cratonic mantle.
 
 
 ---
@@ -479,14 +479,14 @@ TODO
 
 ---
 
-## (Hydrous) melt assisted mantle exhumation – case study from Puke, Mirdita Ophiolite (Albania)
+### (Hydrous) melt assisted mantle exhumation – case study from Puke, Mirdita Ophiolite (Albania)
 
 **Jakub Mikrut^1^, Magdalena Matusiak-Małek^1^, Benoit Ildefonse^2^, Andrea Tommasi^2^, Georges Ceuleneer^3^, Michel Grégoire^3^, Kujtim Onuzi^4^**
 
-^1^Institute of Geological Sciences, University of Wrocław, Wrocław, Poland
+_^1^Institute of Geological Sciences, University of Wrocław, Wrocław, Poland
 ^2^Géosciences Montpellier, CNRS & Université de Montpellier, Montpellier, France
 ^3^Géosciences Environnement Toulouse, CNRS, Toulouse III University, CNES, IRD, Toulouse, France
-^4^Institute of GeoSciences, Tirana, Albania
+^4^Institute of GeoSciences, Tirana, Albania_
 
 > **When (2 min. presentation)**: 12:40
 > **Poster location**: Panel #1
@@ -518,12 +518,12 @@ _Dijkstra, A.H., Drury, M.R., and Vissers, R.L., 2001, Structural petrology of p
 
 ---
 
-## The Phase Transformation of Sediment-Rich Mélanges from Deep Forearc to Sub-Arc Depths
+### The Phase Transformation of Sediment-Rich Mélanges from Deep Forearc to Sub-Arc Depths
 
 **Bridgett I. Holman^1^, Anna M. Rebaza^1^, Ananya Mallik^1^, Emily H. G. Cooperdock^2^**
 
-^1^University of Arizona, Tucson, Arizona USA  
-^2^Brown University, Providence, Rhode Island USA
+_^1^University of Arizona, Tucson, Arizona USA  
+^2^Brown University, Providence, Rhode Island USA_
 
 > **When (2 min. presentation)**: 12:42
 > **Poster location**: Panel #2
@@ -543,7 +543,280 @@ _Rebaza, A.M., Mallik, A., Straub, S.M., 2023. Multiple Episodes of Rock-Melt Re
 
 ---
 
-TODO
+### Pyroxenite generation via high-pressure crystallization of a MORB-type basalt: an experimental study at 1-2.5 GPa
+
+**Giulio Borghini^1^, Chiara Francesca Crotti^1^, Patrizia Fumagalli^1^**
+
+_^1^Dipartimento di Scienze della Terra “Ardito Desio”, Università di Milano, via Botticelli 23, 20133 Milano, Italy_
+
+> **When (2 min. presentation)**: 12:42
+> **Poster location**: Panel #3
+> **Presenting author**: Giulio Borghini, https://orcid.org/0000-0002-1825-0097
+
+Pyroxenites represent widespread lithological heterogeneities found in the upper mantle in various geodynamical settings. They occur as lens or layers embedded within mantle peridotites in ophiolitic or orogenic ultramafic massifs, as thin veins in abyssal peridotites and found out as lithospheric mantle xenoliths. The origin of pyroxenites can be attributed to different magmatic or metamorphic processes or a combination of them (Bodinier & Godard, 2003). Several mantle pyroxenites are believed to result from melt segregation at high-pressure conditions (P ≥ 1 GPa) of mantle-derived melts that experienced varying extent of interaction with host peridotite (Borghini et al., 2022). Parental melts of many garnet- or spinel-bearing pyroxenites, usually occurring as thick layers, have low X~Mg~ (X~Mg~ = 0.6-0.8) suggesting they could be derived either via peridotite-derived melt differentiation or partial melting of low-MgO heterogeneous mantle sources. Although several experimental studies investigated MORB-like basalt crystallization at moderate pressure (P < 1 GPa), few experiments focused on phase relations and mineral chemistry at higher pressure. 
+
+In this study, we performed piston cylinder experiments at 1-2.5 GPa and 1100-1350°C to investigate the mineralogy and the composition of mineral phases in pyroxenites formed through high-pressure crystallization of a MORB-like basalt. Our starting material is a natural glass with the composition of moderately evolved tholeiitic basalts (X~Mg~ = 0.60, SiO~2~ = 48.6 wt%, Na~2~O = 3.48 wt%, K~2~O = 0.81 wt%). High temperature (T > 1200°C) isothermal experiments revealed that clinopyroxene is the liquidus phase at 1-2.5 GPa. Liquidus clinopyroxenes have XMg around 0.79 and 0.84 at 1.5 GPa, 1200°C and 2 GPa, 1300°C respectively, all with moderate Al and Na contents. In order to simulated close-system crystallization after deep melt segregation in the mantle, we conducted high-pressure experiments that, after a high-temperature step, were cooled down to 1100 and 1150°C. During cooling, garnet precipitates after clinopyroxene from the basaltic melt at P ≥ 1.5 GPa and T > 1200°C, in association with rutile at 2 GPa after significant extents of crystallization (residual glass < 20 wt%, at 1100°C). At 1 GPa, low-fosterite olivine (Fo~76-79~ at 1200°C and Fo~65-68~ at 1100°C) was observed in all runs in association with plagioclase An~45-48~ at 1100°C. Upon cooling, XMg in clinopyroxene decreases (down to 0.66) accompanied by a slight decrease in Ca and an increase in Ti content. At increasing pressure, clinopyroxenes exhibit progressively higher Na and Al contents (Jadeite content up to 0.25 at 2.5 GPa) with decreasing Ca and Cr concentrations. Garnets record upon cooling increase of Grossular and Pyrope contents combined with a decrease of Almandine. By assuming that after cooling and resulting isobaric crystallization, residual melts are expelled through compaction, the modal abundances derived from cooling experiments can be used to determine the final mineralogy of the rocks. Pyroxenites generated through infiltration and crystallization of MORB-type basalt at P from 1.5 to 2.5 GPa are garnet clinopyroxenites having garnet modal abundance increasing with pressure from 22 to 38 wt%. Olivine-bearing clinopyroxenite, with a low abundance (≈ 7 wt%) of Ab-rich plagioclase, forms at 1 GPa. Mineral compositions and modal abundances derived from experiments have been employed to estimate the bulk compositions of pyroxenites formed through high-pressure crystallization. Computed bulk-rock compositions well resemble those of garnet- and olivine+plagioclase-clinopyroxenites documented in orogenic and ophiolitic ultramafic massifs.
+
+**References**
+
+_Bodinier, J.-L. & Godard, M., 2003. Orogenic, ophiolitic and abyssal peridotites. In: Carlson, R. W. (ed.) The Mantle and Core: Treatise on Geochemistry, Vol. 2. pp 103–170 Elsevier. https://doi.org/10-1016/B0-08-043751-6/02004-1_
+
+_Borghini, G., Fumagalli, P., Rampone, E., 2022. Melt-rock interactions in a veined mantle: pyroxenite-peridotite reaction experiments at 2 GPa. Eur J Mineral 34, 109-129, https://doi.org/10.5194/ejm-34-109-2022_
+
+---
+
+### Highly Siderophile Elements (HSE) and Os Isotopes in pyroxenite-peridotite associations from Northern Apennine (Italy) veined mantle
+
+**Giulio Borghini^1^, Ambre Luguet^2^, Carlotta Ferrando^3^, Alex Di Raimondo^3^, Roberto Cabella^3^, Elisabetta Rampone^3^**
+
+_^1^Dipartimento di Scienze della Terra “Ardito Desio”, Università di Milano, via Botticelli 23, 20133 Milano, Italy
+^2^Institut fur Geowissenschaften, Rheinische Friedrich-Wilhems-Universitat, Bonn 53115, Germany
+^3^Dipartimento di Scienze della Terra, dell’Ambiente e della Vita, Università di Genova, Corso Europa 26, 16132 Genova, Italy_
+
+> **When (2 min. presentation)**: 12:42
+> **Poster location**: Panel #4
+> **Presenting author**: Giulio Borghini, https://orcid.org/0000-0002-1825-0097
+
+Deep infiltration and high-pressure reactive crystallization of melt at lithosphere-asthenosphere boundary conditions is one of the main mechanisms of mantle heterogeneities formation,mostly related to the emplacement of pyroxenites. During crystallization of pyroxenitic layers or lenses, melts may also percolate locally the adjacent peridotites and affect their chemical and isotopic compositions. Pyroxenite-peridotite sequences from External Liguride mantle bodies of Northern Apennines ophiolites (Italy) represent one of the most studied examples of veined mantle. Here, MORB-like peridotites experienced intrusion of tholeiitic basalts that crystallized garnet-bearing pyroxenite layers and modified via reactive percolation (coupled to chromatographic effect) the major and trace element composition of the host peridotite. Over time, this introduced small-scale Sm-Nd and Lu-Hf isotope mantle heterogeneities and produced Hf-Nd enriched mantle domains, potentially representing the heterogeneous mantle source of Enriched-MORBs (Borghini et al., 2021). Spinel- to plagioclase-facies subsolidus exhumation allowed the preservation of chemical and isotopic gradient related to the pyroxenite emplacement.
+In this study we investigate the distribution and major element composition of sulphides together with Highly Siderophile Elements (HSE) and Re-Os isotopes compositions in whole-rock and single sulphides along well-studied pyroxenite-peridotite profiles. In the profile, we thus distinguished the country peridotite (free of pyroxenites at 1mt scale) and the host peridotite, adjacent to pyroxenite layer. Distribution of Base Metal Sulphides does not vary among the lithologies. Few sulphide grains are enclosed in spinel- or plagioclase-facies minerals whereas most of them consist of interstitial grains associated with the plagioclase-bearing neoblastic association. Country peridotites contain sulphides consisting of pentlandite. Sulphides in the pyroxenites are all polyphase grains made by pentlandite, pyrrhotite and sporadically chalcopyrite with pyrrhotite being volumetrically predominant. In host peridotites, sulphides are also polyphase but pyrrhotite is always volumetrically lesser than pentlandite. In pyroxenites pentlandite composition has homogeneous Ni/(Ni+Fe) values between 40 and 45 but this value increases progressively from wall-rock to host to country peridotites (up to 60), as effect of interaction with pyroxenitic melt.
+
+Peridotites show HSE concentration comparable to the Earth’s Primordial Mantle and within the range of HSE documented in many orogenic peridotites. Pyroxenites have lower Os, Ir and Ru contents and show higher variation in Pt, Pd and Re abundances. We have distinguished three groups of pyroxenites. The group I pyroxenites have the highest Al~2~O~3~ contents (Al~2~O~3~ = 14.44-16.46 wt%) and show the strongest fractionation between the IPGE (Os, Ir, Ru) and the PPGE (Pt and Pd) and Re. Group II pyroxenites have moderate Al~2~O~3~ contents (Al~2~O~3~ = 12.75-13.86 wt%) and exhibit an intermediate fractionation between the IPGE and the PPGE and Re. Pyroxenites of group III with the lowest Al~2~O~3~ contents (Al~2~O~3~ = 9.94-12.87 wt%) show the highest Os-Ir-Ru concentrations, low Pt-Pd contents resulting in HSE patterns rather smooth and close to those of the peridotites.
+
+Present-day ^187^Os/^188^Os ratios of peridotite define a  narrow PUM-like range (0.1242-0.1345) with host peridotites having homogeneous ^187^Os/^188^Os and ^187^Re/^188^Os ratios and distal peridotite showing more variable Os isotopic ratios. Pyroxenites exhibit more radiogenic Os isotope ratios from 0.1547 to 0.8035. They decrease at increasing Os concentration from Group I (0.2498-0.4269) to Group II (0.2121-0.2401) and Group III (0.1547-0.2308). Pyroxenites display ^187^Re/^188^Os ratios systematically higher than those of peridotites, with Group I showing values higher than Group II and III. HSE and Os isotopes evidence a trend of progressive increase  of melt-peridotite reaction, going from Group I pyroxenites, very similar to silicate melts, to Group III pyroxenites, the latter being the most similar to peridotites. Single sulphide analyses along a selected pyroxenite-peridotite traverse reveal HSE and Os isotopes gradients resulting from interaction between infiltrating melt and host peridotite.
+
+**References**
+
+_Borghini, G., Rampone, E., Class, C., Goldstein, S., Cai, Y., Cipriani, A., Hofmann, A.W., Boulge, L., 2021. Enriched Hf-Nd isotopic signature of veined pyroxenite-infiltrated peridotite as a possible source for E-MORB. Chemical Geology 586, 120591. https://doi.org/10.1016/j.chemgeo.2021.120591_
+
+---
+
+### Transition from lithospheric to asthenospheric mantle sources during Early Mesozoic magmatism of the Southern Alps: Evidence from alkali-rich dykes intruding the Ivrea–Verbano Zone (Italy)
+
+**Abimbola C. Ogunyele^1,2,6^, Mattia Bonazzi^2^, Tommaso Giovanardi^3^, Maurizio Mazzucchelli^2,3^, Vincent J.M. Salters^4^, Alessandro Decarlis^5^, Alessio Sanfilippo^1,2^, Alberto Zanetti^2,1^**
+
+_^1^Department of Earth and Environmental Sciences, University of Pavia, Via Ferrata 1, 27100 Pavia, Italy 
+^2^CNR – Istituto Geoscienze e Georisorse, Via Ferrata 1, 27100 Pavia, Italy 
+^3^Department of Chemical and Geological Sciences, University of Modena and Reggio Emilia, Via Campi 103, 41125 Modena, Italy 
+^4^National High Magnetic Field Laboratory, Department of Earth, Ocean and Atmospheric Sciences, Florida State University, Tallahassee, FL 32310, USA 
+^5^RICH Center, Earth Sciences Department, Khalifa University of Science and Technology, P.O. Box 12788, Abu Dhabi, United Arab Emirates
+^6^Department of Earth Sciences, Adekunle Ajasin University, PMB 001 Akungba-Akoko, Nigeria_
+
+> **When (2 min. presentation)**: 12:42
+> **Poster location**: Panel #5
+> **Presenting author**: Alberto Zanetti, https://orcid.org/0000-0001-9026-1519
+
+The Ivrea-Verbano Zone (IVZ) in the westernmost sector of the Southern Alps is an iconic upper mantle to lower continental crust sequence of the Adriatic Plate and provides a geological window into the tectono-magmatic events that occurred at the Gondwana–Laurussia boundary from Late Paleozoic to Early Mesozoic. In this contribution, we document new geochemical and Nd-Sr-Hf-Pb isotopic data for Early Mesozoic alkali-rich dyke swarms which intruded the Finero Phlogopite Peridotite (northern IVZ) to provide geological constraints on the nature, origin and evolution of Early Mesozoic magmatism in the Southern Alps. 
+
+The studied dykes are amphibole-phlogopite-bearing and show geochemical features varying between two end-member groups. A dyke group is characterized by HFSE-poor, Al-rich amphibole (Al2O3 up to 16 wt%) with high LILE and LREE contents, high radiogenic 87Sr/86Sr(i) (0.704732 to 0.704934) and low radiogenic Nd isotopes (eNd(i) from –0.1 to –0.7), which support the occurrence of significant amounts of recycled continental crust components in the parental mantle melts and impart an overall ‘‘orogenic-like” affinity. This dyke group was largely derived from metasomatized lithospheric mantle sources. The second group is HFSE-rich with Al-poorer amphibole enriched in LILE and LREE, low radiogenic ^87^Sr/^86^Sr(i) (0.703761–0.704103) and higher radiogenic Nd isotopes (eNd(i) from +3.4 to +5.4) pointing to an ‘‘anorogenic” alkaline affinity and asthenospheric to deep lithospheric mantle sources. Some dykes show both orogenic and anorogenic affinities, providing evidence that the orogenic-like magmatism in the IVZ predates the alkaline anorogenic magmatism. 
+
+The Finero dyke swarms therefore record a geochemical change of the Early Mesozoic magmatism of the Southern Alps from orogenic-like magmatism, typical of post-collisional settings, to anorogenic alkaline magmatism, common in intraplate to extensional settings, and places a temporal correlation of Early Mesozoic magmatism in the IVZ to those in the eastern and central sectors of the Southern Alps.
+
+**References**
+
+_Ogunyele, Abimbola Chris, et al. *Transition from «orogenic-like» to «anorogenic» geochemical affinity in Mesozoic post-collisional magmatism: evidence from alkali-rich dykes from Ivrea-Verbano Zone (Southern Alps)*. mayo de 2022, pp. EGU22-13428. *NASA ADS*, https://doi.org/10.5194/egusphere-egu22-13428_
+
+---
+
+### Deconvolving mantle lithologic compositions through geochemical modeling of oceanic basalts
+
+**Lynne J. Elkins^1^, Sarah Lambart^2^**
+
+_^1^University of Nebraska-Lincoln, Lincoln, NE, USA
+^2^University of Utah, Salt Lake City, UT, USA_
+
+> **When (2 min. presentation)**: 12:42
+> **Poster location**: Panel #6
+> **Presenting author**: Lynne J. Elkins, https://orcid.org/0000-0002-0903-7091
+
+While oceanic basalts can provide geochemical clues to the nature of the convecting mantle, they are also the ultimate, integrated products of multiple processes and factors, including continuous, progressive melt generation, source heterogeneity, magma transport, melt-rock chemical interactions, and homogenization and mixing. Deconvolving those signals to decipher the nature of the asthenosphere is complex, but recent developments in geochemical melt modeling provide new avenues to further investigate the mantle origins of lavas. The pyUserCalc package (Elkins and Spiegelman 2021) provides reproducible, open-source, and accessible computational modeling tools for tracking the geochemical products of partial melting by reactive porous flow. The package includes methods for calculating chemical equilibrium and disequilibrium melt transport through a decompressing solid matrix, for both trace element concentrations and uranium-series disequilibria. Additional tools are available to determine the compositions of two-dimensional integrated melts in a triangular melting regime, the effects of radioactive decay during magma transport through the lithosphere, and outcomes of traditional dynamic melting.
+
+In combination with the models Melt-PX for calculating the melting behavior of two lithologies in thermal equilibrium (Lambart et al. 2016) and pMELTS for determining coexisting mineral modes during the melting process (Ghiorso et al. 2002), we have developed a workflow for determining the trace element concentrations and U-series disequilibria in partial melts produced by decompression of a multi-lithologic mantle. We have conducted systematic modeling of melting for a heterogeneous mantle, considering 0-50% pyroxenite in the solid source, four mafic pyroxenite compositions (G2, KG1, M7-16, and MIX1G) in thermal equilibrium with ambient peridotite, two mantle potential temperatures (1300 and 1400 ºC), and a range of solid mantle upwelling rates and reference melt porosity fractions. We find that on a global spatial scale, the mantle melting regime must contain measurable and variable quantities of pyroxenitic rocks (Figure), and those pyroxenites must span the range from silica-deficient to silica-excess compositions (Elkins & Lambart, accepted). The upper mantle is thus heterogeneous across many length scales and a wide range of compositions. Our modeling outcomes also require a variety of magma transport mechanisms, including both equilibrium and disequilibrium porous flow, implying that magma transport occurs across a range of channelized and porous flow networks in the decompressing mantle.
+
+![Elkins_fig1](https://raw.githubusercontent.com/lherzolite2024/programme/main/figs/Elkins_fig1.png)
+_**Figure 1**. Uranium-series disequilibrium activity ratios in calculated partial melts of silica-excess, G2 (average mid-ocean ridge basalt) pyroxenite, for a range of solid mantle upwelling rates (solid lines) and maximum porosities (dashed lines), and for a mantle potential temperature of 1300 ºC. Global mid-ocean ridge data are shown for comparison. Of the scenarios tested in this study, G2 pyroxenite partial melts are best able to reproduce oceanic basalt compositions with elevated (^230^Th/^238^U) and low (^226^Ra/^230^Th) and (^231^Pa/^235^U) (Elkins and Lambart, accepted, and references therein)._
+
+**References**
+
+_Elkins, L. Lambart, S., accepted. Uranium-series disequilibria in MORB, revisited: A systematic numerical approach to partial melting of a heterogeneous mantle. Accepted in Volcanica. Preprint: https://doi.org/10.22541/essoar.170289974.42837909/v1_
+
+_Elkins, L., Spiegelman, M., 2021. pyUserCalc: A revised Jupyter notebook calculator for uranium-series disequilibria in basalts. Earth and Space Science 8(12), e2020EA001619. https://doi.org/10.1029/2020EA001619_
+
+_Ghiorso, M.S., Hirschmann, M.M., Reiners, P.W., Kress, V.S., 2002. The pMELTS: A revision of MELTS for improved calculation of phase relations and major element partitioning related to partial melting of the mantle to 3 GPa. Geochemistry, Geophysics, Geosystems 3(5), 1-35. https://doi.org/10.1029/2001GC000217_
+
+_Lambart, S., Baker, M.B., Stolper, E.M., 2016. The role of pyroxenite in basalt genesis: Melt-PX, a melting parameterization for mantle pyroxenites between 0.9 and 5 GPa. Journal of Geophysical Research: Solid Earth 121(8), 5708-5735. https://doi.org/10.1002/2015JB012762_
+
+---
+
+### Mechanical and metasomatic evolution of a developing mantle wedge from subduction initiation to obduction
+
+**Alissa J. Kotowski^1^, Andrew Keats^1^, Hester Smit^1^,  Jippe van Broekhoven^1^, Matthew Tarling^2^, Emily Cooperdock^3^, Marguerite Godard^4^, Oliver Plümper^1^, Martyn Drury^1^, Eric Hellebrand^1^**
+
+_^1^Department of Earth Sciences, Faculty of Geosciences, Utrecht University, Utrecht, the Netherlands
+^2^Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Vancouver, Canada
+^3^Department of Earth, Environmental, and Planetary Sciences, Brown University, Rhode Island, USA
+^4^French National Centre for Scientific Research (CNRS), Géosciences Montpellier, France_
+
+> **When (2 min. presentation)**: 12:42
+> **Poster location**: Panel #7
+> **Presenting author**: Eric Hellebrand, https://orcid.org/0000-0002-0903-7091
+
+Geodynamic models suggest that formation of plate boundary shear zones requires a mechanically weak material. Peridotites occupying the proto-plate boundary hanging wall position are inherently strong, and experience cooling during subduction initiation from >1000˚C to < 500˚C over ~10 Myr, which should resist strain localization. Serpentinites are commonly credited for lithosphere-scale strain localization and considered prerequisites for subduction initiation. However, geologic observations suggest that proto-interface temperatures exceed 550˚C at 20-30 km, making conditions too hot for serpentine to form. Thus, both olivine and serpentine’s contribution to plate boundary formation is unclear. Here we present structural and geochemical data constraining the mechanical and metasomatic evolution of a fossilized subduction interface exposed on Mont Albert (Québec, Canada) to evaluate the high-temperature deformation history of the dry mantle, and the relative timing, extent, and effects of serpentinization across a developing interface.
+
+Mont Albert is an incomplete Ordovician ophiolite complex that records subduction initiation and obduction onto the Laurentian margin during the Taconian Orogeny (~450-500 Ma). Field structural observations and optical and electron microscopy demonstrate that spinel peridotites occupy distributed shear zones exhibiting mylonitic to ultramylonitic fabric evolution under increasingly wetter conditions with proximity towards the paleo-plate contact. Olivine Crystallographic Preferred Orientation (CPO) changes from stronger A- and D-type in mylonites, then to weaker AG- and B-type in ultramylonites, corresponding with grain size reduction from ~60-80 µm to ≤20 µm. We interpret the fabric transition to result from dynamic recrystallization accommodated by dislocation creep, with a switch to grain-size sensitive diffusion-accommodated creep, and that grain size remains small due to phase mixing with primary orthopyroxene and growth of secondary hydrous phases (e.g., chlorite and amphibole). Olivine paleopiezometry returns paleo-flow stresses of 100-160 MPa and 100-135 MPa for mylonites and ultramylonites, respectively, and does not trend clearly with respect to fabric type, which suggests roughly iso-stress deformation through time.
+
+Immediately at the paleo-plate contact, a ~10-20 m thick zone of heavily serpentinized ultramylonites (i.e., the “contact zone”; 75-90% serpentine) are characterized by sub-mm to cm-scale intercalations of fine-grained, strongly-aligned layers of lizardite (confirmed with Raman spectroscopy), Fe-oxide-rich (hematite and magnetite), and relict olivine-rich layers. No antigorite was identified. Undeformed lizardite mesh textures are extremely common, and some ‘boudins’ comprising aggregates of coarser-grained lizardite mesh with grain boundaries decorated by hematite appear to be statically serpentinized equivalents of high-temperature boudinage of coarser-grained olivine layers. We interpret that the majority of the contact ultramylonite serpentinization occurred post-kinematically. 
+
+Geochemical analyses across the 60 m mantle transect (n=9) and farther away (+300-800 m, n=4) show very limited trends with distance from the contact or degree of serpentinization. Major elements and HREE demonstrate variable melt depletion (~5-15%) of the mantle protolith; Ce, Sr, and Pb are only subtly enriched at the contact compared to structurally distal samples; and LREE and other fluid mobile elements do not vary systematically between samples. Overall, this supports minimal chemical overprinting during serpentinization, and that limited fluid flow occurred late in the shear zone history at low temperatures (<300˚C). 
+
+Our structural, microstructural, and geochemical analyses together demonstrate that an early high-temperature phase of distributed ductile deformation became increasingly localized due to the introduction of high-T hydrous phases, likely during initial plate boundary formation. Olivine flow laws suggest an order of magnitude increase in strain rate approaching the paleo-plate contact, which we suggest reflects switches in deformation mechanism rather than stress, assisting in early stages of strain localization. Serpentinites did not facilitate strain localization during plate boundary development, nor facilitate obduction. Rather, serpentinites followed from focused fluid flow along an established lithosphere-scale structure and effectively ‘locked’ the shear zone, forcing obduction-related strain to localize elsewhere. 
+
+---
+
+### EXCITE2: a European network providing free-of-charge access to x-ray, electron, and ion imaging facilities
+
+**E. Hellebrand^1^, G. ter Maat^1^, H. Vogel^1^, S. Walter^1^, R.J.F. Wessels^1^, O. Plümper^1^**
+
+_^1^Department of Earth Sciences, Faculty of Geosciences, Utrecht University, Utrecht, the Netherlands_
+
+> **When (2 min. presentation)**: 12:42
+> **Poster location**: Panel #8
+> **Presenting author**: Eric Hellebrand, https://orcid.org/0000-0003-1909-6279
+
+The EXCITE² Network is transforming Earth and environmental material science by uniting 19 research facilities across 12 European countries. This network provides access to advanced imaging technologies, allowing scientists to study Earth materials at scales from nanometers to centimeters. This research offers insights into environmental toxicity, critical metal extraction for renewable energy, and long-term storage of climate-altering gases. EXCITE² fosters interdisciplinary collaboration and supports a sustainable future in Europe. It also provides training for new researchers and introduces innovative services like AI and advanced imaging to enhance problem-solving. The initiative drives scientific excellence and benefits society.
+While the emphasis of EXCITE2 is on projects with societal relevance, basic research questions continue to be eligible for support as well. Routine workhorse instruments are accessible, such as EPMA for quantitative spot analysis, (FEG-)SEM for basic imaging and large-area EDS mapping, in justified cases after first conducting X-ray tomography to identify the most appropriate 2D slice from a 3D starting material. Among the more specialized instruments are a nanoSIMS at Utrecht University, and an AtomProbe at Curtin University. 
+Access to EXCITE can be requested by applying to our next transnational access call opening in November 2024. Interested? Have a look on the EXCITE website (https://excite-network.eu) – and apply!
+
+---
+
+### Conjunction of sub-oceanic and sub-arc mantle peridotites: Revisiting the Uenzaru peridotite complex in the northern Hidaka metamorphic belt, Hokkaido, Japan
+
+**Toru Yamasaki^1^, Gen Shimoda^1^**
+
+_^1^Institute of Geology and Geoinformation, Geological Survey of Japan (AIST), 1-1-1 Higashi, Tsukuba Central 7, Ibaraki, 305-8567 Japan_
+
+> **When (2 min. presentation)**: 12:42
+> **Poster location**: Panel #9
+> **Presenting author**: Toru Yamasaki, https://orcid.org/0000-0002-9300-0338 
+
+The high-T/P-type Hidaka metamorphic belt (HMB) in Hokkaido, northern Japan, comprises metamorphic rocks up to granulite facies, along with intrusive and ultramafic rocks. It interprets an Eocene to Miocene island-arc-type crustal section that shallows towards the east. To the west of the HMB, the Poroshiri ophiolite extends approximately 70 km in length and <2 km in width, exposing a nearly complete oceanic crust-mantle section that shallows to the west. The HMB and Poroshiri ophiolites are bound by a thrust at the deepest lithologies. 
+
+The Uenzaru peridotite complex, the northernmost peridotite body along the thrust, is a steeply dipping sheet approximately 800 m wide. It lies between the metagabbro of the Poroshiri ophiolite and the pelitic granulites of the HMB. The western part mainly comprises harzburgite, exhibiting metamorphism with abundant amphiboles and complete absence of clinopyroxene. Veins (<1 m wide) penetrate the peridotite and are fully metamorphosed into amphibolite. The eastern part mainly consists of fresh spinel lherzolite and plagioclase lherzolite, along with pyroxenite and gabbro veins/bands, resembling lithologies found in the Horoman peridotite complex, the largest peridotite body in the HMB (Murota and Arai, 1988). Harzburgite, spinel lherzolite and plagioclase lherzolite exhibit different preferred orientations of olivine (Komatsu, 1975). Based on geological position, and the differences between the eastern and western parts, and the similarity of the eastern part to the Horoman complex, it is suggested that the western part belongs to the Poroshiri ophiolite and the eastern part to the HMB (Komatsu, 1975; Murota and Arai, 1988).
+
+In this study, we investigate the petrological and geochemical characteristics of peridotites and their attributes and origins by revisiting the Uenzaru Complex. The sample at the eastern end comprises plagioclase-lherzolite, transitioning to spinel-lherzolite, and then to harzburgitic rock, where pyroxenes have completely transformed into amphiboles. Harzburgitic rocks occur at a point identified in previous studies as the boundary between the eastern and western regions. The compositional relationship between spinel Cr# and olivine Fo suggests that the eastern peridotites are petrogenetically related to the gabbro of the Poroshiri ophiolite. The western sample showed a wide range of spinel Cr# = 0.10-0.43, consistent with Horoman peridotites. Conversely, the Cr#–Fo relationship in the harzburgitic amphibolite at the boundary between the eastern and western parts was more similar to that of the eastern part. The relationship between MnO and Cr # in spinel showed a similar trend. The REE pattern of amphiboles across the area shows significantly low abundance and a leftward decreasing pattern in the western part, a spoon- or U-shaped pattern at the boundary to the eastern part, and relatively high abundance with an LREE-depleted pattern in the easternmost part. Comparing these patterns with those of the clinopyroxene, the eastern pattern aligns with that of the mafic cumulate (olivine Fo89) of the Poroshiri ophiolite, while the boundary exhibits a similar spoon- or U-shaped pattern in the eastern sample. From the plagioclase lherzolite of the Horoman peridotite body, clinopyroxene with a relatively high content and an LREE-depleted pattern has been reported, whereas spoon- or U-shaped patterns have been reported for spinel lherzolite and harzburgite (Takazawa et al., 1992). Therefore, the trace elements of the amphiboles in the Uenzaru Complex reflect the REE pattern of clinopyroxene, indicating that the area east of the boundary belongs to the HMB.
+
+The attribution of the eastern and western regions, previously based mainly on descriptive features, was confirmed by trace element mineral chemistry. The Uenzaru Complex represents a rare area where sub-oceanic and sub-arc mantle peridotite contact occurs in a continuous outcrop.
+
+![Yamasaki_fig](https://raw.githubusercontent.com/lherzolite2024/programme/main/figs/Yamasaki_fig.png)
+_**Figure 1.** Rare earth element patterns for amphiboles and clinopyroxenes from the Uenzaru peridotites and reference samples._
+
+**References**
+
+_Komatsu, M., 1975. Recrystallization of the high alumina pyroxene peridotite of the Uenzaru area in Hidaka Province, Hokkaido, Japan. Jour. Geol. Soc. Japan 81, 11–28. https://doi.org/10.5575/geosoc.81.11_
+
+_Murota, Y., Arai, S., 1988. Petrological notes on deep-seated and related rocks (6) Petrological characteristics of primary peridotites from the Uenzaru complex, the Hidaka belt, Hokkaido, Japan. Ann. Rep., Inst. Geosci., Univ. Tsukuba 14, 64–68._
+
+_Ross, K., Elthon, D., 1993. Cumulates from strongly depleted mid-ocean-ridge basalt. Nature 365, 826–829. https://doi.org/10.1038/365826a0_
+
+_Takazawa, E., Frey, F.A., Shimizu, N., Obata, M., Bodinier, J.L, 1992. Geochemical evidence for melt migration and reaction in the upper mantle. Nature 359, 55–58. https://doi.org/10.1038/359055a0_
+
+---
+
+### Molecular H in lithospheric mantle, a clue to interpret ∂D variations
+
+**Moine Bertrand N.^1^, Bolfan-Casanova Nathalie^1^, Dominique Jessy^1^, Radu Ioana-Bogdana^2^**
+
+_^1^Université Clermont Auvergne, CNRS, IRD, OPGC, Laboratoire Magmas et Volcans, F-63000 Clermont-Ferrand, France
+^2^Swedish Museum of Natural History | Box 50007, SE-104 05, Naturhistoriska riksmuseet, Stockholm, Sweden_
+
+> **When (2 min. presentation)**: 12:42
+> **Poster location**: Panel #10
+> **Presenting author**: Bertrand N. Moine, https://orcid.org/0000-0003-2780-2882
+
+Hydrogen is a ubiquitous trace component of nominally anhydrous minerals (NAMs) in the upper mantle, estimated to amount to 1-7 times the total mass of the oceans. So far, hydrogen was known to exist in NAMs in the form of OH, with storage capacity varying with depth. However, studies of cratonic mantle xenoliths indicate that ƒO2 ranges from FMQ -2 to -4.5 (Goncharov et al.2012), conditions under which a substantial amount of hydrogen may be present in a reduced form (H~2~). We show that molecular hydrogen (H2) coexists with OH in natural omphacite in eclogite xenoliths from the Siberian craton (3-4 GPa, 1000 °C), suggesting that H~2~ plays a role in water recycling to deep mantle (Moine et al. 2020). The presence of H~2~ can explain the extremely negative values due to the positive fractionation between fluids and H~2~ and these counter-intuitive relationships can be explained by the coexistence of OH and H~2~ in minerals. This better explains the relations between ∂D estimates for MORB-source convective upper mantle (about -50‰, Clog et al., 2013) and glass inclusions in phenocrysts from plume basalts (down to -218‰, Hallis et al., 2015) that were previously attributed to a primitive deep reservoir or to contamination by recycled partially dehydrated oceanic crust. Since molecular H~2~ is most likely to be the dominant form of hydrogen in the reduced deep mantle, it follows that H isotopic fractionation should be controlled by equilibria involving H~2~-bearing minerals rather than H~2~O- or OH-bearing minerals.
+
+**Reference**
+
+_Goncharov, A. G., Ionov, D. A., Doucet, L. S. & Pokhilenko, L. N. 2012. Thermal state, oxygen fugacity and C-O-H fluid speciation in cratonic lithospheric mantle: New data on peridotite xenoliths from the Udachnaya kimberlite, Siberia. *Earth and Planetary Science Letters* **357-358**, 99-110. https://doi.org/10.1016/j.epsl.2012.09.016_
+
+_Moine B.N., Bolfan-Casanova N., Radu I.B., Ionov D.A., Costin G., Korsakov A.V., Golovin A.V., Oleinikov O.B., Deloule E., Cottin J.Y. (2020) Molecular hydrogen in minerals as a clue to interpret ∂D variations in the mantle, *Nature Communications* 111 (art. Number 3604). https://doi.org/10.1038/s41467-020-17442-8_
+
+_Clog, M., Aubaud, C., Cartigny, P. & Dosso, L. 2013. The hydrogen isotopic composition and water content of southern Pacific MORB: A reassessment of the D/H ratio of the depleted mantle reservoir. *Earth and Planetary Science Letters* 381, 156-165, https://doi.org/10.1016/j.epsl.2013.08.043_
+
+_Hallis, L. J. *et al.* 2015. Evidence for primordial water in Earth’s deep mantle. *Science* **350**, 795. https://doi.org/10.1126/science.aac4834_
+
+---
+
+### The composition and origin of sulfides in peridotites – insight from from Ruddon’s Point xenoliths (Fife, Scotland)  
+
+**Hubert Mazurek^1^, Magdalena Matusiak-Małek^1^, Hannah S.R. Hughes^2^, Brian J.G. Upton^3^**
+
+_^1^Institute of Geological Sciences, University of Wroclaw, Poland 
+^2^Camborne School of Mines, University of Exeter, United Kingdom
+^3^School of GeoSciences, University of Edinburgh, United Kingdom_
+
+> **When (2 min. presentation)**: 12:42
+> **Poster location**: Panel #11
+> **Presenting author**: Hubert Mazurek, https://orcid.org/0000-0002-3003-0302
+
+Sulfides are accessory minerals in the mantle peridotites, but they control the chalcophile, siderophile and platinum group elements (PGE) budget in lithospheric mantle (LM) rocks. Permian mafic volcanic rocks occurring in southern terrains of Scotland (United Kingdom) host a variety of LM xenoliths abundant in sulfides giving insight into metal migration through upper lithospheric mantle. A xenolith suite from Ruddon’s Point (Fife, Scotland) basalts contains four major textural groups of peridotites: (1) protogranular and (2) porphyroclastic lherzolites, (3) equigranular wehrlites and (4) lherzolites transitional between protogranular and equigranular peridotites. The melt-rock reaction of LM beneath S Scotland with alkaline melts resulted in clinopyroxene crystallization (wehrlitization) and decrease forsterite content (Fo) in olivine from primitive (protogranular and porphyroclastic) lherzolites (Fo~88.5–90.0~) through transitional to equigranular (Fo~80.05–85.0~) peridotites (Matusiak-Małek et al., 2022).
+
+The sulfides in the peridotites occur as oval to elongated or irregular inclusions in olivine, ortho- and clinopyroxene or as interstices between these phases. Sulfide abundances increase from the transitional lherzolites (mean = 9 × 10-3 vol. ‰), through equigranular (2.6 × 10-2 vol. ‰) and porphyroclastic peridotites (2.9 × 10-2 vol. ‰) to protogranular lherzolites (5 × 10-2 vol. ‰). Phases composing sulfide grains present in all textural groups are represented by pentlandite (Pn) and chalcopyrite (Ccp). Protogranular and transitional peridotites contain also minor amounts of pyrrhotite (Po), whereas porphyroclastic lherzolites occasionally contain millerite (Mlr) and covellite (Cv). The sulfides from the equigranular and protogranular peridotites are more enriched in Cu-, and depleted in Ni-phases (Po~0~Pn~71~Ccp~29~ and Po~4~Pn~68~Ccp~27~, respectively) in comparison to sulfides from the porphyroclastic and transitional peridotites (Po~0~Pn~80~Ccp~20~ and Po~6~Pn~83~Ccp~12~, respectively). The Cu/(Cu+Fe) ratio is homogenous in sulfides of all the groups, whereas the Ni/(Ni+Fe) ratio is homogenous only in transitional and equigranular peridotites (0.64–0.65 and 0.55–0.59, respectively) in contrast to porphyroclastic and protogranular ones (0.54–0.68 and 0.52–0.64, respectively). There is no significant difference in trace element concentrations in sulfides, except lower Co and higher Zn (up to 4894 and 2214 ppm, respectively) in the protogranular lherzolites compared to transitional peridotites (30090 and 1391 ppm, respectively).
+
+The more primitive protogranular and porphyroclastic lherzolites are characterized by the highest sulfide abundances in comparison to the sulfides from metasomatized equigranular wehrlites, with no major differences in sulfide mineral and chemical (major and trace elements) composition between lithologies. Therefore, activity of the alkaline silicate melts responsible for wehrlitization of the more primitive lherzolites has likely no influence on the sulfide enrichment in the LM beneath S Scotland. The presence of Cv and Mlr in porphyroclastic lherzolites implies later-stage alteration by hydrothermal, post-volcanic activity after eruption of basaltic lavas. 
+
+**References**
+
+_Matusiak-Małek, M., Kukuła, A., Matczuk, P., Puziewicz, J., Upton, B.J.G., Ntaflos, T., Aulbach, S., Grégoire, M., Hughes H.S.R., 2022. Evolution of upper mantle and lower crust beneath Southern Uplands and Midland Valley Terranes (S Scotland) as recorded by peridotitic and pyroxenitic xenoliths in alkaline mafic lavas. 4th EMAW TOULOUSE 2021 Book of Abstracts._
+
+---
+
+### Combined δ^18^O-δ^44/40^Ca Geochemistry of Eclogites from the Navajo Volcanic Field, Colorado Plateau, USA  
+
+**Joshua Munro^1^, Jaime D Barnes^1^, John C Lassiter^1^, Aaron M Satkoski^1^**
+
+_^1^Department of Earth and Planetary Sciences, University of Texas, Austin, Texas 78712, USA._
+
+> **When (2 min. presentation)**: 12:42
+> **Poster location**: Panel #12
+> **Presenting author**: Joshua Munro, https://orcid.org/0000-0003-0162-554X
+
+The Navajo Volcanic Field (NVF) in the Colorado Plateau, USA, contains eclogite xenoliths associated with peridotite and garnetite xenoliths, all hosted within serpentinized ultramafic breccia diatremes. These diatremes erupted approximately 30 Ma, sampling portions of the altered lithospheric mantle and fragments of material transported from subduction zones to the west. These eclogites are generally accepted to represent fragments of subducted oceanic crust, either from subducted Proterozoic crust (Wendlandt et al., 1993; Smith et al., 2004) or the Cretaceous Farallon slab (Helmstaedt & Doig, 1975; Usui et al., 2003). Previous work has shown that δ^18^O and δ^44/40^Ca values can be distinct tracers of recycled crustal material given that continental crustal material and altered oceanic crust have δ^18^O-δ^44^Ca values that vary significantly from the mantle value (δ^18^O ≈ 5.5±0.2‰, Eiler (2001), and δ^44/40`^Ca ≈ 0.95±0.05‰, Kang et al. (2019)). However, only a few studies have investigated the Ca isotope geochemistry of eclogites, and with the rising application of non-traditional isotopes, it is necessary to fully understand the effect of subduction and metasomatism on the Ca isotope system. Previous work was focused on the high-temperature (~900°C to 1300°C), Proterozoic eclogites of the Kaapvaal Craton (Chen et al., 2020; Smart et al., 2021) – hence, it is beneficial to investigate the contrasting low-temperature (~700°C to 800°C) eclogites of the Colorado Plateau.
+
+Sixteen eclogites from the Garnet Ridge diatreme, NVF, were analysed for their δ18O and δ44/40Ca values (Figure). All δ18O values for mineral separates were above expected values in equilibrium within normal mantle peridotite (~5.5 to 6.0‰ for garnet, ~5.5 to 6.2‰ for pyroxene), varying from 6.6 to 9.8‰ for garnet (mean 8.0 ± 1.1‰, n = 16) and 6.6 to 9.7‰ for clinopyroxene (mostly omphacite, 7.8 ± 1.0‰, n = 16). Calculated whole-rock δ^18^O values are higher than mantle values, but within the altered oceanic crust range (Figure). Measured δ^44/40^Ca values vary from 1.68 to 1.98‰ for garnet, 0.76 to 1.06‰ for clinopyroxene, and 0.71‰ for lawsonite. The ∆^44/40^Ca grt-cpx values range from 0.71 to 0.92‰, some of the highest reported in the literature. Calculated whole-rock eclogite δ44/40Ca values range from 0.87 to 1.38‰, which overlap with the altered oceanic crust field, but are above the typical δ^44/40^Ca value for average mid-ocean ridge basalt (~0.85‰).
+
+ The garnet δ^18^O and δ^44/40^Ca values for NVF eclogites are higher than most values determined in previous work for Kaapvaal Craton eclogites (diamonds in Figure; Chen et al., 2020; Huang et al., 2022; Smart et al., 2021). In addition, the NVF garnet, clinopyroxene, and whole-rock all have positively correlated δ^18^O-δ^44/40^Ca values, suggesting involvement of a high-δ^18^O, high-δ^44/40^Ca component. Although the exact nature of this component is unclear, it is most likely that the δ^18^O-δ^44/40^Ca correlation is from recycled surface material affected by low-temperature alteration processes.
+
+ The eclogite ∆^44/40^Ca grt-cpx values in our work and literature are negatively correlated with estimated eclogite temperature. At typical mantle temperatures (>1200°C), the ∆^44/40^Ca grt-cpx value is small (<0.2‰), whereas large fractionation factors are expected during low-temperature processes (e.g., ∆^44/40^Ca grt-cpx ≈ 0.92‰ at 575°C). From this, it is possible that the large inter-mineral Ca-isotope fractionation in the NVF eclogites is due to the low-temperature of equilibration during low-angle subduction of the Farallon plate. Additionally, the exceptionally high garnet δ^44/40^Ca values are due primarily to inter-mineral fractionation effects. Previous studies have used ab-initio predictions and numerical diffusion models to determine mineral δ^44/40^Ca fractionation parameters as a function of temperature (Antonelli et al., 2019, and references therein; Chen et al., 2020). These models were tested against data for eclogite, pyroxenite, and peridotite garnet-clinopyroxene pairs, and shown to accurately predict real-world ∆^44/40^Ca grt-cpx - temperature variation. This furthers the ability to reliably predict and interpret the temperature effect on Ca isotope fractionation in garnet-clinopyroxene pairs.
+
+![munro_fig](https://raw.githubusercontent.com/lherzolite2024/programme/main/figs/munro_fig.jpg)
+
+_**Figure 1**. Plot showing δ^18^O-δ^44/40^Ca isotope data for Navajo Volcanic Field eclogite garnet (open circles) and whole rock (filled circles), compared to eclogite garnets and whole-rock from the Kaapvaal Craton (open and filled triangles; Chen et al., 2020; Smart et al., 2021; Huang et al., 2022) and major relevant reservoirs (mantle, altered oceanic crust, fresh mid-ocean ridge basalt/MORB and sea water). NVF whole-rock data is calculated from mineral separate data. Whole-rock δ^18^O values are used for our samples, whereas only garnet δ^18^O values are available for Kaapvaal samples. Since the difference between whole-rock and garnet δ^18^O value is typically <0.2‰ at high temperatures, the values are comparable to our whole-rock δ^18^O values. Figure modified after Smart et al., (2021) and references therein._
+
+**References**
+
+_Antonelli, M. A., Schiller, M., Schauble, E. A., Mittal, T., DePaolo, D. J., Chacko, T., Grew, E. S., & Tripoli, B. (2019). Kinetic and equilibrium Ca isotope effects in high-T rocks and minerals. Earth and Planetary Science Letters, 517, 71–82. https://doi.org/https://doi.org/10.1016/j.epsl.2019.04.013_
+
+_Chen, C., Huang, J. X., Foley, S. F., Wang, Z., Moynier, F., Liu, Y., Dai, W., & Li, M. (2020). Compositional and pressure controls on calcium and magnesium isotope fractionation in magmatic systems. Geochimica et Cosmochimica Acta, 290, 257–270. https://doi.org/10.1016/j.gca.2020.09.006_
+
+_Eiler, J. M. (2001). Oxygen Isotope Variations of Basaltic Lavas and Upper Mantle Rocks. Reviews in Mineralogy and Geochemistry, 43(1), 319–364. https://doi.org/10.2138/gsrmg.43.1.319_
+
+_Helmstaedt, H., & Doig, R. (1975). Eclogite nodules from kimberlite pipes of the Colorado Plateau -samples of subducted Franciscan-type oceanic lithosphere. In L. H. Ahrens, J. B. Dawson, A. R. Duncan, & A. J. Erlank (Eds.), Physics and Chemistry of the Earth (pp. 95–111). Pergamon._
+
+_Huang, J., Huang, J. X., Griffin, W. L., & Huang, F. (2022). Zn-, Mg and O-isotope evidence for the origin of mantle eclogites from Roberts Victor kimberlite (Kaapvaal Craton, South Africa). Geology, 50(5), 593–597. https://doi.org/10.1130/G49780.1_
+
+_Kang, J. T., Ionov, D. A., Zhu, H. L., Liu, F., Zhang, Z. F., Liu, Z., & Huang, F. (2019). Calcium isotope sources and fractionation during melt-rock interaction in the lithospheric mantle: Evidence from pyroxenites, wehrlites, and eclogites. Chemical Geology, 524, 272–282. https://doi.org/10.1016/j.chemgeo.2019.06.010_
+
+_Smart, K. A., Tappe, S., Woodland, A. B., Greyling, D. R., Harris, C., & Gussone, N. (2021). Constraints on Archean crust recycling and the origin of mantle redox variability from the δ44/40Ca – δ18O – fO2 signatures of cratonic eclogites. Earth and Planetary Science Letters, 556. https://doi.org/10.1016/j.epsl.2020.116720_
+
+_Smith, D., Connelly, J. N., Manser, K., Moser, D. E., Housh, T. B., McDowell, F. W., & Mack, L. E. (2004). Evolution of Navajo eclogites and hydration of the mantle wedge below the Colorado Plateau, southwestern United States. Geochemistry, Geophysics, Geosystems, 5(4). https://doi.org/10.1029/2003GC000675_
+
+_Usui, T., Nakamura, E., Kobayashi, K., Maruyama, S., & Helmstaedt, H. (2003). Fate of the subducted Farallon plate inferred from eclogite xenoliths in the Colorado Plateau. Geology, 7, 589–592. www.geosociety.org/pubs/_
+
+_Wendlandt, E., DePaolo, D. J., & Baldridge, S. W. (1993). Nd and Sr isotope chronostratigraphy of Colorado Plateau lithosphere: implications for magmatic and tectonic underplating of the continental crust. Earth and Planetary Science Letters, 116, 23–43._
+
+---
+
+
 
 # List of participants in alphabetic order
 
@@ -554,53 +827,77 @@ TODO
 | Asetre, Jo Hannna            |                             Macquarie University (Australia) |
 | Ballay, Mélanie              |  ITES Institut Terre et Environnement de Strasbourg (France) |
 | Barreau, Laurine             |                 Université Clermont Auvergne & CNRS (France) |
+| Battifora, Catherina         |                        University of Genova - DISTAV (Italy) |
 | Begg, Graham                 |              Minerals Targeting International PL (Australia) |
+| Beltrame, Marco              |                                University of Trieste (Italy) |
+| Berkesi, Márta               |                                       HUN-REN EPSS (Hungary) |
+| Bertrand, Moine              |                Université Clermont Auvergne & CNRS, (France) |
+| Bolfan-Casanova, Nathalie    |                Université Clermont Auvergne & CNRS, (France) |
+| Bonadiman, Costanza          | University of Ferrara, Dept. of Physics and Earth Sciences  (Italy) |
 | Borghini, Giulio             | Earth's Science Department Ardito Desio, University of Milano  (Italy) |
 | Bukala, Michal               |           Andalusian Earth Sciences Institute - CSIC (Spain) |
 | Cao, Yi                      |               China University of Geosciences (Wuhan, China) |
 | Chatzaras, Vasileos          |                             University of Sydney (Australia) |
+| Crotti, Chiara Francesca     |                                  University of Milan (Italy) |
 | Demouchy, Sylvie             |                 Université Clermont Auvergne & CNRS (France) |
 | Dominique, Jessy             |                 Université Clermont Auvergne & CNRS (France) |
-| Elkins, Lynne                |                         University of Nebraska-Lincoln (USA) |
+| Elkins, Lynne J.             |                         University of Nebraska-Lincoln (USA) |
 | Faul, Ulrich                 |                  Massachusetts Institute of Technology (USA) |
 | Garapic, Gordana             |              State University of New York at New Paltz (USA) |
+| Garrido Marín, Carlos J.     |    Instituto Andaluz de Ciencias de la Tierra - CSIC (Spain) |
+| Godard, Marguerite           |                  Université de Montpellier 2 & CNRS (France) |
 | Greau, Yoann                 | Research School of Earth Science, Australian National  University (Australia) |
 | Griffin, William Lindsay     |                             Macquarie University (Australia) |
 | Hand, Martin                 |                           University of Adelaide (Australia) |
 | He, Xiao-Fang                |                           University of Adelaide (Australia) |
 | Hellebrand, Eric             |                             Utrecht University (Netherlands) |
+| Henry, Hadrien               |                            Université Paul Sabatier (France) |
 | Holman, Bridgett             |                                  University of Arizona (USA) |
+| Iglesias Ruiz, Gabriel       |                    Universidad Complutense de Madrid (Spain) |
 | Inoue, So                    |                                    Nagoya University (Japan) |
 | Katzir, Yaron                |                  Ben Gurion University of the Negev (Israel) |
 | Lambart, Sarah               |                                     University of Utah (USA) |
+| Lange, Thomas Pieter         |                                         HUN-REN FI (Hungary) |
 | Lassiter, John               | Department of Earth and Planetary Sciences, University of  Texas at Austin (USA) |
+| Lissenberg, Johan            |                                      Cardiff University (UK) |
 | Llana-Fúnez, Sergio          |                                 University of Oviedo (Spain) |
 | Lopez-Sanchez, Marco A.      |                                 University of Oviedo (Spain) |
+| López Suárez, Maria Camila   |                                  University of Pavia (Italy) |
 | Mata, João                   |   Faculdade de Ciências da Universidade de Lisboa (Portugal) |
 | Matsuyama, Kazuki            |                                    Nagoya University (Japan) |
 | Mazurek, Hubert              |                               University of Wroclaw (Poland) |
+| Michel, Grégoire             |           Géosciences Environnement Toulouse & CNRS (France) |
 | Mikrut, Jakub                |                               University of Wrocław (Poland) |
 | Montanini, Alessandra        |                                  University of Parma (Italy) |
 | Morishita, Tomoaki           |                                  Kanazawa University (Japan) |
 | Munro, Joshua                |                          University of Texas at Austin (USA) |
+| Myovela, Justine Leonard     |                                 Univeristy of Pécs (Hungary) |
+| Novo-Fernández, Irene        |                               Universidad de Granada (Spain) |
 | O'Reilly, Suzanne Yvette     |                             Macquarie University (Australia) |
 | Padrón-Navarta, José Alberto |           Andalusian Earth Sciences Institute - CSIC (Spain) |
 | Pereira, Inês Filipa         |    Centro de Geociências, Universidade de Coimbra (Portugal) |
 | Ramón Fernández, María       |           Andalusian Earth Sciences Institute - CSIC (Spain) |
+| Rampone, Elisabetta          |                        University of Genova - DISTAV (Italy) |
 | Rebaza Morillo, Anna Mireia  |                                  University of Arizona (USA) |
+| Richter, Marianne            |    Instituto Andaluz de Ciencias de la Tierra - CSIC (Spain) |
+| Saccani, Emilio              | University of Ferrara, Dept. of Physics and Earth Sciences  (Italy) |
+| Sanfilippo, Alessio          |                                  University of Pavia (Italy) |
 | Sani, Camilla                |                                Univeristät Münster (Germany) |
 | Secchiari, Arianna           |                                     Milan University (Italy) |
+| Scarani, Sarah               |                                  University of Pavia (Italy) |
 | Suire, Harmony               |                     CNRS UMR7063 - ITES (Strasbourg, France) |
+| Szabó, Csaba                 |                                         HUN-REN FI (Hungary) |
 | Tikoff, Basil                |                        University of Wisconsin-Madison (USA) |
 | Tilhac, Romain               |           Andalusian Earth Sciences Institute - CSIC (Spain) |
 | Tommasi, Andréa              |                  Université de Montpellier 2 & CNRS (France) |
+| Ulrich, Marc                 |                     CNRS UMR7063 - ITES, Strasbourg (France) |
 | Wang, Li                     |               China University of Geosciences (Wuhan, China) |
 | Wang, Yong-Feng              |               China University of Geosciences (Wuhan, China) |
 | Xiong, Qing                  |               China University of Geosciences (Wuhan, China) |
 | Xue, Long-Fei                |               China University of Geosciences (Wuhan, China) |
 | Yamasaki, Toru               |                     Geological Survey of Japan (AIST, Japan) |
+| Zanetti, Alberto             |                                              IGG-CNR (Italy) |
 | Zhang, Junfeng               |               China University of Geosciences (Wuhan, China) |
-
 
 # Useful information
 
