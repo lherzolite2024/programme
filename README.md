@@ -1,1 +1,1 @@
-# programme
+This is the repository for the 7th Orogenic Lherzolite Meeting, go to the website instead at https://lherzolite2024.github.io/programme/
