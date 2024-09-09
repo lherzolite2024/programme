@@ -1,14 +1,14 @@
 # Timetables
 
-![day_1_wednesday](C:\Users\Marco\Documents\GitHub\programme\imgs\day_1_wednesday.png)
+![day_1_wednesday](https://raw.githubusercontent.com/lherzolite2024/programme/main/imgs/day_1_wednesday.png)
 
 ---
 
-![day_2_tuesday](C:\Users\Marco\Documents\GitHub\programme\imgs\day_2_tuesday.png)
+![day_2_tuesday](https://raw.githubusercontent.com/lherzolite2024/programme/main/imgs/day_2_tuesday.png)
 
 ---
 
-![day_3_friday](C:\Users\Marco\Documents\GitHub\programme\imgs\day_3_friday.png)
+![day_3_friday](https://raw.githubusercontent.com/lherzolite2024/programme/main/imgs/day_3_friday.png)
 
 
 [TOC]
@@ -475,7 +475,7 @@ TODO
 
 # List of Abstracts, posters
 
-![posters](C:\Users\Marco\Documents\GitHub\programme\imgs\posters.png)
+![posters](https://raw.githubusercontent.com/lherzolite2024/programme/main/imgs/posters.png)
 
 ---
 
