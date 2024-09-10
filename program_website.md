@@ -663,7 +663,7 @@ _^1^Géosciences Montpellier, CNRS & Université de Montpellier, F-34095 Montp
 
 By re-analysing with new methods 40 samples from three peridotite massifs of Zabargad island in the northern Red Sea, we document the evolution of pressure and temperature conditions and the successive influence of hydrous melts and aqueous fluids on the operation of extensional shear zones, which exhumed mantle slivers from deep lithospheric or asthenospheric depths, in a rift-to-drift setting. By coupling high-resolution mapping of the microstructure by electron backscattered diffraction with recent developments in barometry for plagioclase-bearing peridotites and thermodynamic modelling of peridotitic compositions, we (1) constrain the temporal and spatial evolution of petrological and tectonic processes in the shallow mantle during rifting and (2) document the presence of melts or aqueous fluids throughout the activity of the shear zones, unravelling substantial feedback between petrological and tectonic processes. Thermobarometry and thermodynamic modelling constrained by the microstructural observations substantiate progressive strain localization associated with shearing under decreasing pressure and temperature, from near solidus conditions at >1 GPa (in the north and central peridotite massifs) or ~0.7 GPa (in the southern massif) to < 600°C and <0.3 GPa in all three massifs. These data also support local aqueous fluid saturation in the shear zones. The higher contents of hydrous minerals in ultramylonites indicate fluid focusing in the shear zones with evidence for seawater ingress up to >10 km depth. The presence of melts or fluids enabled concurrent dislocation and dissolution-precipitation creep, resulting in weakening of the shear zones. However, fluid supply was spatially heterogeneous and likely intermittent, with equilibrium achieved only locally in the ultramylonites. The present study documents therefore how the feedback between progressive strain localization and fluid-focusing in extensional shear zones contributes to thinning and exhumation of the mantle during continental rifting and the rift-to-drift transition.
 
-![Tommasi_fig](C:\Users\Marco\Documents\GitHub\programme\assets\Tommasi_fig.jpg)
+![Tommasi_fig](https://raw.githubusercontent.com/lherzolite2024/programme/main/figs/Tommasi_fig.jpg)
 _**Figure 1**. Evolution of microstructures and modal compositions with progressive strain localization and decrease in the pressure and temperature conditions of the deformation in the Zabargad peridotites_
 
 **References**
@@ -731,11 +731,71 @@ In this study, we use a set of yet little explored dredged and drilled samples f
 > **When**: Thursday 3rd october at 17:20
 > **Speaker**: Justine Myovela; https://orcid.org/0000-0002-3753-1863
 
-The study of dredged an
+The Styrian Basin, located in the transition zone between the Pannonian Basin and the Eastern Alps, is believed to have formed above a lithospheric wedge affected by subduction as strongly supported by geophysical data (Aradi et al., 2017; Qorbani et al., 2015). The Late Miocene-Pliocene alkali basalts sampled the subcontinental lithospheric mantle beneath the basin, bringing mantle xenoliths to the surface (e.g., Aradi et al., 2020). These xenoliths are amphibole-rich, indicating extensive modal metasomatism at mantle pressures. We performed 3D Raman mapping, Focused Ion Beam-Scanning Electron Microscopy (FIB-SEM), Electron Microprobe Analysis (EMPA), and thermodynamic modeling to gain insights into the composition and nature of metasomatic agent recorded in the fluid and melt inclusions. Inclusions in this study are primary and pseudosecondary, hosted in orthopyroxene, clinopyroxene and amphibole. The fluid inclusions are irregular to negative crystal-shaped (3-100 μm), whereas melt inclusions are glass-rich with rounded to negative crystal shapes (4-15 μm).
 
+![Myovela_fig](https://raw.githubusercontent.com/lherzolite2024/programme/main/figs/Myovela_fig.jpg)
+_**Figure 1.** Representative Raman 3D maps showing the distribution and volume percentages of phases. (A) Distribution of CO~2~–rich fluid phase and solid phases. (B) Distribution of liquid H~2~O._
 
+3D Raman mapping on these inclusions has revealed complex phase assemblages comprising fluid and solid phases. The fluid phases are CO~2~ (up to 98.4 mol%) and H~2~O (up to 50.8 mol%). Solid phases include magnesite, silicate glass, pyrite, talc, anhydrite, and nahcolite, all showing variable volume properties (Figure 1). The silicate glass in the melt inclusions is H~2~O-bearing (∼2 wt%) and compositionally evolved (trachyandesitic composition; 54.31-60.65 wt% SiO~2~) relative to the host basalt of the studied xenoliths. We revealed pargasitic amphiboles quenched in the SiO~2~-rich glass in the melt inclusions that co-entrapped with the CO~2~-H~2~O-rich fluid phase, suggesting that an immiscible SiO~2~-rich melt and CO~2~-H~2~O-rich was circulating in the mantle wedge above the subducted slab during amphibole formation.  An immiscible CO~2~-H~2~O-rich fluid and SiO~2~-rich melt is suggested as a metasomatic agent that modified the subcontinental lithospheric mantle beneath the Styrian Basin. We propose that immiscibility could strongly enhance amphibole formation at mantle depths. Moreover, based on thermodynamic modeling, the revealed CO~2~-rich fluids can co-exist with trachyandesitic melt with ~1 wt. % CO~2~ and 2 wt% H~2~O at P-T conditions (950-1030 °C, 1.2-1.6 GPa) ideal for forming the studied xenoliths. Consequently, the fluid-saturated composition in the melt inclusions could reflect the equilibrium state of the studied xenoliths.  
 
+**Acknowledgements & funding**: The authors owe thanks to Zoltán Dankházi and Ábel Szabó (Department of Materials Physics, Eötvös Loránd University, Hungary) for their help during the FIB-SEM analysis. This work was financially supported by the NKFIH_FK research fund nr. 132418 and MTA FI FluidsByDepth Lendület Research Group (LP2022-2/2022). The authors are grateful to the Doctoral School of Earth Sciences of the University of Pécs for partly funding this work
 
+**References**
+
+_Aradi, L. E., Bali, E., Patkó, L., Hidas, K., Kovács, I. J., Zanetti, A., Garrido, C. J., Szabó, C. 2020. Geochemical evolution of the lithospheric mantle beneath the Styrian Basin (Western Pannonian Basin). Lithos, 378-379, 105831. https://doi.org/10.1016/j.lithos.2020.105831_
+
+_Aradi, L. E., Hidas, K., Kovács, I. J., Tommasi, A., Klébesz, R., Garrido, C. J., Szabó, C., 2017. Fluid-Enhanced Annealing in the Subcontinental Lithospheric Mantle Beneath the Westernmost Margin of the Carpathian-Pannonian Extensional Basin System. Tectonics, 36(12), 2987-3011. https://doi.org/10.1002/2017TC004702_ 
+
+_Qorbani, E., Bianchi, I., & Bokelmann, G. 2015. Slab detachment under the Eastern Alps seen by seismic anisotropy. Earth and Planetary Science Letters, 409, 96-108. https://doi.org/10.1016/j.epsl.2014.10.049_
+
+---
+
+### Fluid mobile elements and volatile behaviour during serpentinite dehydration
+
+**Asetre, Jo Hannah^1^, Alard, Olivier^1,2,3^, Ezad, Isra^1^, Foley, Stephen^1,2^**
+
+_^1^School of Natural Sciences, Macquarie University, North Ryde, New South Wales, Australia
+^2^Research School of Earth Sciences, Australian National University, Acton, ACT, Australia 
+^3^Géosciences Montpellier, Université de Montpellier, Place Eugène Bataillon, Montpellier, France_
+
+> **When**: Thursday 3rd october at 17:40
+> **Speaker**: Jo Hannah Asetre; https://orcid.org/0000-0002-7581-7758
+
+Geochemical exchanges occurring along subduction zones regulate the mobility and long-term cycle of life-essential elements (e.g. C, H, O, S, F, Cl) between the exospheres and the deep earth. The capture, transfer, and eventual release of volatiles from the seafloor to subduction depths are a product of key metamorphic reactions, as initiated by the dehydration of the plunging slab. In particular, the prograde metamorphism and dehydration journey of serpentinites (Mg~3~Si~2~O~5~(OH)~4~) acts as a filter to either release volatiles and fluid-mobile elements (FME’s) back to the mantle wedge and/or the surface, or sequester them further down to the deep mantle contributing to the evolution of the Earth’s mantle composition (Fig. 1). The composition and volatile contents of the fluids liberated by serpentine breakdown reactions have thus critical implications on the secular equilibrium of Earth’s reservoirs, the emplacement of critical elements, and the oxidation of the mantle wedge.
+
+However, the specific systematics and relative contribution of serpentinites in the global geochemical cycle remains to be fully understood. The nature, composition, and abundances of volatiles within the fluids released during deserpentinization reactions remain largely unconstrained. How efficient are these reactions in releasing fluids? Do these reactions produce oxidized or reduced fluids? Is S significantly extracted from the slab components, and if so, at which stage/depth does this occur? Do water and halogens enhance element transfer? All these questions remain highly debated in the literature (Benard et al., 2018; Evans and Frost, 2021; Kendrick et al., 2018; Marchesi et al., 2013; Pettke and Bretscher, 2022; Piccoli et al., 2019).
+
+![Asetre_fig](https://raw.githubusercontent.com/lherzolite2024/programme/main/figs/Asetre_fig.jpg)
+_**Figure 1**: Serpentinites and their role in the subduction factory._
+
+By employing in-situ mineral trace element analyses on high-pressure serpentinites and metaperidotites recording unique subduction histories, we have investigated the geochemical signatures associated with serpentine dehydration at various depths. Enrichments in key FME’s reinforce the importance of surviving hydrous phases (i.e. chlorite, humites) as a carrier of these elements down to 150 km depth. Preliminary results from high-pressure experiments also highlight the volatile-halogen transfer mechanisms at key temperatures and pressures where serpentine breakdown occurs. Volatile release and retention in the subducting slab is a complex and protracted process that merits further investigation. Ultimately, our study solidifies the significance of serpentinites towards the larger geochemical “diet” of subduction zones that govern the crossroads between the surface reservoirs and the deep mantle.
+
+**References**
+
+_Bénard, A., Koga, K.T., Shimizu, N., Kendrick, M.A., Ionov, D.A., Nebel, O. and Arculus, R.J., 2017. Chlorine and fluorine partition coefficients and abundances in sub-arc mantle xenoliths (Kamchatka, Russia): Implications for melt generation and volatile recycling processes in subduction zones. Geochimica et Cosmochimica Acta, 199, 324-350 https://doi.org/10.1016/j.gca.2016.10.035 _
+
+_Evans, K.A. and Frost, B.R., 2020. Deserpentinization in subduction zones as a source of oxidation in arcs: A reality check. Journal of Petrology, 62(1), 1-32. https://doi.org/10.1093/petrology/egab016_
+
+_Kendrick, M.A., Scambelluri, M., Hermann, J. and Padrón-Navarta, J.A., 2018. Halogens and noble gases in serpentinites and secondary peridotites: Implications for seawater subduction and the origin of mantle neon. Geochimica et Cosmochimica Acta, 235, 285-304. https://doi.org/10.1016/j.gca.2018.03.024_
+
+_ Marchesi, C., Garrido, C.J., Padrón-Navarta, J.A., Sánchez-Vizcaíno, V.L. and Gómez-Pugnaire, M.T., 2013. Element mobility from seafloor serpentinization to high-pressure dehydration of antigorite in subducted serpentinite: Insights from the Cerro del Almirez ultramafic massif (southern Spain). Lithos, 178, 128-142. https://doi.org/10.1016/j.lithos.2012.11.025_
+
+_Pettke, T. and Bretscher, A., 2022. Fluid-mediated element cycling in subducted oceanic lithosphere: The orogenic serpentinite perspective. Earth-Science Reviews, 225, 103896. https://doi.org/10.1016/j.earscirev.2021.103896_
+
+_Piccoli, F., Hermann, J., Pettke, T., Connolly, J.A.D., Kempf, E.D. and Vieira Duarte, J.F., 2019. Subducting serpentinites release reduced, not oxidized, aqueous fluids, Sci. Rep., 9, 19573. https://doi.org/10.1038/s41598-019-55944-8_
+
+---
+
+### The Rise and Fall of Ultramafic-Rich Mélanges in Cold to Hot Subduction Zones: Implications for Chemical Geodynamics
+
+**Anna M. Rebaza1 , Ananya Mallik 1 , Emily H.G. Cooperdock2 , Bridgett I. Holman1**
+
+1Department of Geosciences, University of Arizona, 1040 E. 4th Street, Tucson, AZ 85721. 2Department of Earth, Environmental & Planetary Sciences, Brown University, 324 Brook Street Providence, RI  02912.
+
+> **When**: Thursday 3rd october at 18:00
+> **Speaker**: Anna M. Rebaza; https://orcid.org/0000-0003-3062-7659
+
+Buoyant ultramafic-rich (serpentine- or chlorite-rich) mélange diapirs in sediment-starved subduction  channels may play a crucial role in transporting slab material to arc sources, thereby profoundly  impacting arc magma diversity, mantle heterogeneity, and deep Earth cycling. However, it is unclear  whether they preserve the overall buoyancy from deep forearc to subarc depths (~65-95 km), what  conditions are required to form diapirs and their potential fate in subduction zones. Previous  experimental and thermodynamic modeling predicts the buoyancy and diapir formation of chlorite-rich  mélanges at those depths. Nevertheless, a gap in our understanding of mass transfer by serpentinerich mélanges still needs to be addressed. Here, (1) we experimentally constrain the partial melting behavior and the associated density  transformations of a serpentine-rich matrix (5-10 wt.% H~2~O) with minor sediments (9:1 ratio) at forearc (~65 km) and sub-arc (~95 km) depths (2-3 GPa and 800-1250ºC). (2) Evaluate the pMELTS  software’s potential to reproduce our experimental data and to be used by future studies for similar  systems. (3) Assess the buoyancy of a diverse suite of ultramafic-rich mélanges by exploring density  contrasts relative to the overriding mantle, and the crucial interplay of viscosities and thicknesses of  the mélange thickness at different subduction rates for diapir growth. (4) We discuss the fate of  ultramafic-rich mélanges and the potential chemical geodynamic scenarios for various element  groups (e.g., LILEs, HFSEs, volatiles) in subduction zones. Serpentine-rich mélanges have high solidus (1050-1100 ºC) and require either its diapiric rise into the  hotter mantle wedge or interactions with a hotter asthenosphere through slab tears to partially melt  and produce basaltic melts. Otherwise, the serpentine-rich mélange channel only dehydrates to form  a denser peridotite lithology. We observe that pMELTS, a widely used tool, has limitations in  reproducing phase equilibria and melting behavior under similar conditions to as our study.  Serpentine-rich and chlorite-rich mélanges lose buoyancy at ~800ºC and ≥1000ºC, respectively. As  they ascend, they potentially encounter a buoyancy barrier due to thermal equilibration and  mineralogical transformation in the hotter mantle, leading to stalled or failed diapirs. The onset of  diapirs in cold and fast subduction zones requires mélanges that may sometimes be thicker than those  observed by field and geophysical studies, while hot and slow subduction zones generally require  thinner mélanges. Partial melting of the mélange (caused by a diapiric rise or slab tear) does not  fractionate the initial LILE/HFSE signature and transfer to the signature intact to arc magma sources.  Dehydration fractionates the initial LILE/HFSE signature, releasing aqueous fluids with a high  LILE/HFSE signature to the overriding mantle. This mantle-fluid interaction may favor the formation of  F-OH-Ti-clinohumite-type rocks, holding back further HFSEs and releasing aqueous fluids with a higher  LILE/HFSE signature and transferred to arc magma sources. Given high LILE/HFSE ratio is a ubiquitous  arc magma signature, but slab tears are not, and diapirism in ultramafic-rich mélanges is highly  conditional, this study corroborates that aqueous fluids are the predominant mass transfer agents in  sediment-starved subductions rather than diapirs.
 
 ---
 
@@ -1946,22 +2006,6 @@ TO ADD
 | Yamasaki, Toru               |                     Geological Survey of Japan (AIST, Japan) |
 | Zanetti, Alberto             |                                              IGG-CNR (Italy) |
 | Zhang, Junfeng               |               China University of Geosciences (Wuhan, China) |
-
-# Useful information
-
-👉 Map of the site
-
-**Talks** will be held at the Conference Hall University of Oviedo. It is situated on the first floor of the central courtyard and has access through stairs located at the ground floor.
-
-**Coffee breaks** will be offered in the half-covered terrace in front of the main entrance of the conference hall. **Lunches** will be offered...TODO
-
-The poster session will be held on Tuesday and Wednesday on the ground
-floor of the...TODO
-
-**Wi-Fi** will be available during the conference. The University of Oviedo also provides access to an eduroam network.
-
-The conference dinner will be held at the "Whatever restaurant", at Some Street,
-17, Oviedo
 
 
 
