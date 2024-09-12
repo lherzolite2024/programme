@@ -1954,7 +1954,6 @@ TO ADD
 | Godard, Marguerite           |                  Université de Montpellier 2 & CNRS (France) |
 | Greau, Yoann                 | Research School of Earth Science, Australian National  University (Australia) |
 | Griffin, William Lindsay     |                             Macquarie University (Australia) |
-| Hand, Martin                 |                           University of Adelaide (Australia) |
 | Hellebrand, Eric             |                             Utrecht University (Netherlands) |
 | Henry, Hadrien               |                            Université Paul Sabatier (France) |
 | Holman, Bridgett             |                                  University of Arizona (USA) |
