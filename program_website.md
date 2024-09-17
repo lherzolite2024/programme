@@ -20,7 +20,7 @@
 
 ## Day 1: first block
 
-> Convener: To set
+> Convener: Andréa Tommasi
 
 ### A long section of depleted mantle peridotite
 
@@ -111,7 +111,7 @@ _Zimmerman, M. E., Zhang, S., Kohlstedt, D. L., & Karato, S. I. 1999. Melt distr
 ---
 ### Formation mechanism of mantle dunitic channels in oceanic slow-ultraslow spreading centers
 
-**Li Wang^1^, Qing Xiong^1^\*, Jian-Ping^1^, Zheng, Hong-Kun^1^, Dai, Xiang^1^, Zhou, Hong-Da Zheng^1^**
+**Li Wang^1^, Qing Xiong^1^\*, Jian-Ping Zheng^1^, Hong-Kun Dai^1^, Xiang Zhou^1^, Hong-Da Zheng^1^**
 
 _^1^State Key Laboratory of Geological Processes and Mineral Resources, School of Earth Sciences, China University of Geosciences, Wuhan 430074, China_
 
@@ -133,6 +133,8 @@ _Xiong, Q., Dai, H.K., Zheng, J.P., Griffin, W.L., Zheng, H.D., Wang, L., O’Re
 
 ---
 ## Day 1: second block
+
+> Convener: Andréa Tommasi
 
 ### How dry is the Kaapvaal craton?
 
@@ -223,6 +225,8 @@ Our results highlight the indirect role of preceding monogenetic upwelling chann
 
 ## Day 1: third block
 
+> Convener: TO SET
+
 ### Deformation, Rheology and Seismic Anisotropy in the Lithospheric Mantle beneath the North Anatolian Fault
 
 **Vasileios Chatzaras^1^, Alexander D.J. Lusk^2^, Utpal Singh^1^, Ercan Aldanmaz^3^, Basil Tikoff^4^**
@@ -295,13 +299,15 @@ _Soustelle, V., Tommasi, A., Demouchy, S., Ionov, D. 2010. Deformation and fluid
 
 ## Day 1: fourth block
 
+> Convener: TO SET
+
 ### Unveiling mantle heterogeneity in a modern OCT: new insights from the West Iberian margin (ODP Leg 149 and 173)
 
 **Secchiari Arianna^1^, Godard Marguerite^2^, Montanini Alessandra^3^**
 
-^1^University of Milan, Via Botticelli 23, Milan, Italy  
+_^1^University of Milan, Via Botticelli 23, Milan, Italy  
 ^2^Géosciences Montpellier CNRS, Place Eugène Bataillon, Montpellier, France  
-^3^University of Parma, Parco Area delle Scienze 157 a, Parma, Italy  
+^3^University of Parma, Parco Area delle Scienze 157 a, Parma, Italy_
 
 > **When**: Wednesday 2nd october at 16:00
 > **Speaker**: Secchiari Arianna; https://orcid.org/0000-0001-6670-5458
@@ -344,9 +350,9 @@ _Seyler, M., Brunelli, D., Toplis, M. J. & Mével, C., 2011. Multiscale chemical
 
 **Gordana Garapic^1^, Ulrich Faul^2^, Akihiro Tamura^3^, Allison Seyler^1^, Tomoaki Morishita^3^**
 
-^1^State University of New York, New Paltz, USA
+_^1^State University of New York, New Paltz, USA
 ^2^Massachusetts Institute of Technology, Cambridge, USA
-^3^Kanazawa University, Kanazawa, Japan
+^3^Kanazawa University, Kanazawa, Japan_
 
 > **When**: Wednesday 2nd october at 16:20
 > **Speaker**: Gordana Garapic; https://orcid.org/0000-0002-9042-2711
@@ -374,9 +380,9 @@ _Workman, R.K., Hart, S.R., 2005. Major and trace element composition of the dep
 
 **Ulrich Faul^1^, Gordana Garapic^2^, Tomoaki Morishita^3^**
 
-^1^Massachusetts Institute of Technology, Cambridge, USA
+_^1^Massachusetts Institute of Technology, Cambridge, USA
 ^2^State University of New York, New Paltz, USA
-^3^Kanazawa University, Kanazawa, Japan
+^3^Kanazawa University, Kanazawa, Japan_
 
 > **When**: Wednesday 2nd october at 16:40
 > **Speaker**: Hans Ulrich Faul; https://orcid.org/0000-0001-5036-4572
@@ -402,6 +408,8 @@ _Tasaka, M., Zimmerman, M.E., Kohlstedt, D.L., Stünitz, H., Heilbronner, R., 20
 ---
 
 ## Day 1: fifth block
+
+> Convener: TO SET
 
 ### Tectonothermal evolution of the giant eclogitic layer from the Cabo Ortegal Complex (NW Iberian Massif): geodynamic implications
 
@@ -439,6 +447,8 @@ _Mendia, M., Gil Ibarguchi, J.I., Ábalos, B., 2001. Evolución metamórfica P-T
 ---
 
 ## Day 2: first block
+
+> Convener: TO SET
 
 ### Hydrogen Deep Water Cycle
 
@@ -530,6 +540,8 @@ Carbon is strongly linked to the geochemistry of large-ion lithophile elements (
 
 ## Day 2: second block
 
+> Convener: TO SET
+
 ### Petrological characteristics of subarc ultramafic xenoliths: Lanyu Island (Taiwan) in the Luzon magmatic arc
 
 **Tomoaki Morishita^1,2^, Norikatsu Akizawa^3,4^, Takami Araki^1^, Akihiro Tamura^1^, Tomoyuki Mizukami^1^, Ken-Ichiro Tani^5^, Akihiro Tamura^3^, Akihiro Tamura^3^, Akihiro Tamura^3^**
@@ -611,6 +623,8 @@ _Ogunyele, Abimbola C., et al. «Accretion of “Young” Phanerozoic Subcontine
 
 ## Day 2: third block
 
+> Convener: TO SET
+
 ### Oceanic mantle refertilization via melt-harzburgite reaction: an experimental study at 1-2 GPa
 
 **Crotti C.F.^1^, Borghini G.^1^, Fumagalli P.^1^, Tiepolo M.^1^, Klemme S.^2^, Rampone E.^3^** 
@@ -672,6 +686,8 @@ _Borghini, G., Fumagalli, P., Rampone, E., 2022. Melt-rock interactions in a vei
 ---
 
 ## Day 2: fourth block
+
+> Convener: TO SET
 
 ### Progressive strain localization and fluid focusing in mantle shear zones during rifting: petrostructural constraints from the Zabargad peridotites, Red Sea
 
@@ -735,6 +751,8 @@ In this study, we use a set of yet little explored dredged and drilled samples f
 ---
 
 ## Day 2: fifth block
+
+> Convener: TO SET
 
 ### Fingerprinting metasomatic agent in the Styrian Basin mantle xenoliths via 3D Raman mapping of complex inclusions
 
@@ -822,6 +840,8 @@ Buoyant ultramafic-rich (serpentine- or chlorite-rich) mélange diapirs in sedim
 ---
 
 ## Day 3: first block
+
+> Convener: TO SET
 
 ### Mantle Olivine Geochemistry
 
@@ -924,6 +944,8 @@ _Vitale Brovarone, A., Groppo, C., Hetényi, G., Compagnoni, R. & Malavieille, J
 
 ## Day 3: second block
 
+> Convener: TO SET
+
 ### Partial melting and mantle-melts interactions at the Diamantina zone: insights on the mantle evolution during lithospheric break-up
 
 **Mélanie Ballay^1^, Marc Ulrich^1^, Gianreto Manatschal^1^**
@@ -983,6 +1005,8 @@ _**Figure 1.** (a) Anhydrous melting/refertilization model for low-depleted harz
 ---
 
 ## Day 3: third block
+
+> Convener: TO SET
 
 ### Iceland plume sustained by upwelling of melt-depleted, buoyant peridotites
 
@@ -2007,3 +2031,5 @@ TO ADD
 | Zhang, Junfeng               |               China University of Geosciences (Wuhan, China) |
 
 Go to https://lherzolite2024.github.io/
+
+Last update 2024-09-17
