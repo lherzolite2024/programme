@@ -14,7 +14,7 @@
 [TOC]
 
 > [!IMPORTANT]
-> To protect against web scraping and reduce the risk of spam, the email addresses of those responsible for communications are not listed on this page. Instead, their ORCID profiles are provided, where contact information, including email addresses, can be accessed. It is the responsibility of each individual to ensure that their email is available and up-to-date in their ORCID profile.
+> To protect against web scraping and reduce the risk of spam, the email addresses of those responsible for communications are not listed on this website. Instead, their ORCID profiles are provided, where contact information, including email addresses, can be securely accessed. It is the responsibility of each individual to ensure that their email or other contact information is available and up-to-date in their ORCID profile.
 
 # List of Abstracts, talks
 
