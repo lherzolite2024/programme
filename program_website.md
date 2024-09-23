@@ -1944,9 +1944,37 @@ _^1^Departamento de Geología, Universidad de Oviedo, 33005, Oviedo, Spain_
 > **Poster location**: Panel #28
 > **Presenting author**: Sergio Llana-Fúnez, https://orcid.org/0000-0002-8748-5623
 
-TO ADD
+Geological maps are built from two major geological elements: the identification of different geological materials, and their structure or spatial arrangement, which determines the cartographic pattern of the different geological units. Early studies of the Cabo Ortegal Complex faced the challenge of identifying and describing an extensive variety of uncommon deep rocks at the surface. Through many _MSc_ and _PhD_ thesis the group of Leiden did an extensive work in the northwest of Iberia from the 50s to the 70s. This group produced the first complete geological map of the high pressure and high temperature unit in the Cabo Ortegal complex (Vogel et al., 1967). The current understanding about the allochthonous position of the complex as a collection of thrust sheets was established during the early years of plate tectonics by, among others, Ries and Shackleton (1971). In the late 70s, Bayer and Matte (1979) provided geophysical evidence demonstrating the allochthonous nature of the Cabo Ortegal Complex. 
+
+A more detailed complete geological map of the complex was first produced by the Spanish geological survey in two sheets at 1:50.000 scale (Fernández Pompa and Fernández Martínez, 1976 and Fernández Pompa and Monteserín López, 1976). Bastida et al. (1984) later integrated these into a 1:200.000 scale geological map covering a larger area, which included a complete section through the complex. The fundamental structural elements established in this work remain to this day. From the 70-80s, three major Spanish research groups have focused on different areas and units of the Cabo Ortegal Complex. Their work has resulted in slightly different geological maps, which will be present in the accompanying poster to this contribution at the same scale.
+
+The group from the University of the Basque Country in Bilbao, together with French colleagues, focused on the ultramafic rocks as well as the eclogites and gneisses, all in the Upper Tectonic Unit, the target of the pre-conference excursion. The geological map that better collects their overall cartographic contributions can be found in Ábalos et al. 2004, 2011. 
+
+The group from the Complutense University of Madrid worked mainly in the Lower Tectonic Unit, which includes the mélange, basal and ophiolitic units. More recently, they have extended their work to the quartz-feldspathic gneisses of the Upper Tectonic Unit. The latest map that compiles their general cartographic contributions was published in Arenas et al. (2009). 
+
+The group from the University of Oviedo produced the first cartographic synthesis of all units at a 1:200.000 scale mentioned above (Bastida et al., 1984). This group later focused their structural studies on the metabasites, eclogites and quartzo-feldspathic gneisses of the Upper Tectonic Unit, as well as the structure of the Lower Tectonic Unit. The map that compiles this work was published in Marcos et al. (2002). One major outcome that stems from their cartographic work and the relations between the different cartographic units was to regard the different lithological units in the Upper Tectonic Unit as an organized rock sequence made of mantle rocks, metabasites, eclogites and quartzo-feldspathic gneisses. This rock sequence was interpreted to represent a condensed section from the upper mantle to the lower crust, which was later studied as an analog to a mantle-crust transition (e.g. Brown et al., 2009).
 
 **References**
+
+_Ábalos, B., Grassi, K.G., Fountain, D.M., Gil Ibarguchi, J.I., 2004. Geología Estructural, petrofábrica y petrofísica de las eclogitas de Cabo Ortegal (NO de España). Serie Nova Terra 24, 86p._
+
+_Ábalos, B., Fountain, D.M., Gil Ibarguchi, J.I., Puelles, P., 2011. Eclogite as a seismic marker in subduction channels: Seismic velocities, anisotropy, and petrofabric of Cabo Ortegal eclogite tectonites (Spain). GSA Bulletin 123, 439-456. https://doi.org/10.1130/B30226.1_
+
+_Arenas, R., Sánchez-Martínez, S., Castiñeiras, P., Jeffries, T.E., Díez Fernández, R., Andonaegui, P., 2009. The basal tectonic mélange of the Cabo Ortegal Complex (NW Iberian Massif): a key unit in the suture of Pangea. Journal of Iberian Geology 35(2), 85-125. http://hdl.handle.net/10261/26764_
+
+_Bastida, F., Marcos, A., Marquínez, J., Martínez Catalán, J.R., Pérez-Estaún, A., Pulgar, J.A., 1984. Geological map of Spain, La Coruña and report: Instituto Geológico Minero España, Madrid, p. 1–155, scale 1:200,000, sheet 1._ 
+
+_Bayer, A., Matte, Ph., 1979. Is the mafic/ultramafic massif of Cabo-Ortegal (Northwest Spain) a nappe emplaced during Variscan obduction?: A new gravity interpretation. Tectonophysics  57 (2-4), T9-T18. https://doi.org/10.1016/0040-1951(79)90138-0_
+
+_Brown, D., Llana-Fúnez, S., Carbonell, R., Alvarez-Marron, J., Marti, D., Salisbury, M.H., 2009. Laboratory measurements of P-wave and S-wave velocities across a surface analog of the continental crust-mantle boundary: Cabo Ortegal, Spain. Earth and Planetary Science Letters 285, 27–38, https://doi.org/10.1016/j.epsl.2009.05.032_
+
+_Fernández Pompa, F., Fernández Martínez, V., 1974. Geological map of Spain, scale 1:50,000: sheet no. 1 (Cariño) and report. Instituto Geológico Minero España, Madrid, 34 p._ 
+
+_Fernández Pompa, F., Monteserín López, V., 1972. Geological map of Spain, scale 1:50,000: sheet no. 7 (6–3) (Cedeira) and report. Instituto Geológico Minero España, Madrid, 73 p._ 
+
+_Marcos, A., Farias, P., Galán, G., Fernández, F.J., Llana-Fúnez, S., 2002. Tectonic framework of the Cabo Ortegal Complex: A slab of lower crust exhumed in the Variscan orogen (northwestern Iberian Peninsula). In: Martinez Catalán, J.R., Hatcher Jr., R.D., Arenas, R., Díaz García, F. (eds) Variscan-Appalachian dynamics: the building of the late Paleozoic basement. GSA Special Paper 364, 143-162.  https://doi.org/10.1130/0-8137-2364-7.143_
+
+_Vogel, D.E., 1967. Petrology of an eclogite- and pyrigarnite- bearing polymetamorphic rock complex at Cabo Ortegal: NW Spain. Leidse Geologische Mededelingen 40, 121–213. 1:50000 scale map by Vogel, D.E., Engels, J.P., Ho Len Fat, A.G.. Geological Institute, Leiden._
 
 
 ---
@@ -2032,4 +2060,4 @@ TO ADD
 
 Go to https://lherzolite2024.github.io/
 
-Last update 2024-09-17
+Last update 2024-09-23
