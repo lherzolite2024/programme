@@ -1954,6 +1954,8 @@ The group from the Complutense University of Madrid worked mainly in the Lower T
 
 The group from the University of Oviedo produced the first cartographic synthesis of all units at a 1:200.000 scale mentioned above (Bastida et al., 1984). This group later focused their structural studies on the metabasites, eclogites and quartzo-feldspathic gneisses of the Upper Tectonic Unit, as well as the structure of the Lower Tectonic Unit. The map that compiles this work was published in Marcos et al. (2002). One major outcome that stems from their cartographic work and the relations between the different cartographic units was to regard the different lithological units in the Upper Tectonic Unit as an organized rock sequence made of mantle rocks, metabasites, eclogites and quartzo-feldspathic gneisses. This rock sequence was interpreted to represent a condensed section from the upper mantle to the lower crust, which was later studied as an analog to a mantle-crust transition (e.g. Brown et al., 2009).
 
+The poster accompanying this contribution presents the main geological maps of the complex from different research groups at the same scale and highlights areas where there is overall agreement and identifies regions where there is still discussion of rocks and structures. 
+
 **References**
 
 _Ábalos, B., Grassi, K.G., Fountain, D.M., Gil Ibarguchi, J.I., 2004. Geología Estructural, petrofábrica y petrofísica de las eclogitas de Cabo Ortegal (NO de España). Serie Nova Terra 24, 86p._
