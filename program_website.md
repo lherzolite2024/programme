@@ -1960,7 +1960,7 @@ The poster accompanying this contribution presents the main geological maps of t
 
 _Ábalos, B., Grassi, K.G., Fountain, D.M., Gil Ibarguchi, J.I., 2004. Geología Estructural, petrofábrica y petrofísica de las eclogitas de Cabo Ortegal (NO de España). Serie Nova Terra 24, 86p._
 
-_Ábalos, B., Fountain, D.M., Gil Ibarguchi, J.I., Puelles, P., 2011. Eclogite as a seismic marker in subduction channels: Seismic velocities, anisotropy, and petrofabric of Cabo Ortegal eclogite tectonites (Spain). GSA Bulletin 123, 439-456. https://doi.org/10.1130/B30226.1_
+_Ábalos, B., Fountain, D.M., Ibarguchi, J.I.G., Puelles, P., 2011. Eclogite as a seismic marker in subduction channels: Seismic velocities, anisotropy, and petrofabric of Cabo Ortegal eclogite tectonites (Spain). Geological Society of America Bulletin 123, 439–456. https://doi.org/10.1130/B30226.1_
 
 _Arenas, R., Sánchez-Martínez, S., Castiñeiras, P., Jeffries, T.E., Díez Fernández, R., Andonaegui, P., 2009. The basal tectonic mélange of the Cabo Ortegal Complex (NW Iberian Massif): a key unit in the suture of Pangea. Journal of Iberian Geology 35(2), 85-125. http://hdl.handle.net/10261/26764_
 
@@ -1975,6 +1975,8 @@ _Fernández Pompa, F., Fernández Martínez, V., 1974. Geological map of Spain,
 _Fernández Pompa, F., Monteserín López, V., 1972. Geological map of Spain, scale 1:50,000: sheet no. 7 (6–3) (Cedeira) and report. Instituto Geológico Minero España, Madrid, 73 p._ 
 
 _Marcos, A., Farias, P., Galán, G., Fernández, F.J., Llana-Fúnez, S., 2002. Tectonic framework of the Cabo Ortegal Complex: A slab of lower crust exhumed in the Variscan orogen (northwestern Iberian Peninsula). In: Martinez Catalán, J.R., Hatcher Jr., R.D., Arenas, R., Díaz García, F. (eds) Variscan-Appalachian dynamics: the building of the late Paleozoic basement. GSA Special Paper 364, 143-162.  https://doi.org/10.1130/0-8137-2364-7.143_
+
+_Ries, A.C., Shackleton, R.M., 1971. Catazonal Complexes of North-West Spain and North Portugal, Remnants of a Hercynian Thrust Plate. Nature Physical Science 234, 65–68. https://doi.org/10.1038/physci234065a0_
 
 _Vogel, D.E., 1967. Petrology of an eclogite- and pyrigarnite- bearing polymetamorphic rock complex at Cabo Ortegal: NW Spain. Leidse Geologische Mededelingen 40, 121–213. 1:50000 scale map by Vogel, D.E., Engels, J.P., Ho Len Fat, A.G.. Geological Institute, Leiden._
 
@@ -2062,4 +2064,4 @@ _Vogel, D.E., 1967. Petrology of an eclogite- and pyrigarnite- bearing polymetam
 
 Go to https://lherzolite2024.github.io/
 
-Last update 2024-09-23
+Last update 2024-09-24
