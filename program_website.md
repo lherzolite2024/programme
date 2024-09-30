@@ -1980,6 +1980,46 @@ _Ries, A.C., Shackleton, R.M., 1971. Catazonal Complexes of North-West Spain and
 
 _Vogel, D.E., 1967. Petrology of an eclogite- and pyrigarnite- bearing polymetamorphic rock complex at Cabo Ortegal: NW Spain. Leidse Geologische Mededelingen 40, 121–213. 1:50000 scale map by Vogel, D.E., Engels, J.P., Ho Len Fat, A.G.. Geological Institute, Leiden._
 
+### Crystalline massifs in the upper crust: their role favoring stress concentration offshore the North Cantabrian margin
+
+**Sergio Llana-Fúnez^1^, Marco Antonio Lopez-Sanchez^1^**
+
+_^1^Departamento de Geología, Universidad de Oviedo, 33005, Oviedo, Spain_
+
+> **When (1 min. presentation)**: Thursday 3rd October at 12:20
+> **Poster location**: Panel #29
+> **Presenting author**: Sergio Llana-Fúnez, https://orcid.org/0000-0002-8748-5623
+
+The Cabo Ortegal Complex is currently sitting very close to the continental margin of the Iberian plate. What became the current northern edge of the Iberian Peninsula, was subjected to rifting and lithospheric extension that produced the Atlantic between the late Jurassic and early Cretaceous (e.g. Tugend et al., 2015). The record and amount of extension varied along the margin, from very limited at the western end to hyperextension in the Basque-Cantabrian region, towards the East (Cadenas et al., 2018).
+
+The Paleogene convergence of Iberia against Europe was resolved differently along such heterogeneous North Iberian margin. A double verging orogenic wedge formed to produce the Pyrenees at the eastern end (e.g. Teixell et al., 2018). The adjacent hyperextended crust, in the middle, the Basque-Cantabrian region, resulted in thickening of the previously thinned crust, but insufficient to produce an orogenic root (Fernández-Viejo et al., 2021). The western end, dominated by the crystalline core of the Variscan orogen and recording previous limited extension onshore, developed at the continental margin a modest accretionary wedge during the alpine convergence and the initiation of the subduction of oceanic crust from the Bay of Biscay, which was very short-lived (Álvarez-Marrón et al., 1997; Ayarza et al., 2004; Fernández-Viejo et al., 2012).
+
+Since its emplacement during the Variscan orogeny, the Cabo Ortegal Complex has been in upper crustal conditions subject to several episodes of brittle deformation. Given the nature of its rock formations it is unlikely the healing of subsequent brittle events that followed its emplacement, and has therefore the potential to preserve some of the recent (brittle) tectonic history of the Iberian plate. Two of the main cartographic faults, trending northeasterly and northwesterly, and relatively steep, are likely to be related or have been active during the major extension episode. Some of the best preserved lower crustal and upper mantle rocks have also an intense microfracturing, which relates to meso-scale joints and fractures that are also likely to register brittle post-emplacement history. The microfracturing reduces significantly seismic velocities measured directly at room pressure (Brown et al., 2009).
+
+The instrumental seismic record in northwestern Iberia shows low magnitude by persistent activity with a distribution of events responding to the presence of crustal-scale geological structures under some stress. Intersecting alpine faults, subvertical and gently dipping, nucleate some clusters (Fernández-Viejo et al., 2021b). Bodies of rigid crystalline basement rocks in the upper crust may also be potential candidates for stress accumulation in the vicinities of alpine structures. Offshore the North Iberian margin we have identified two clusters, the first one is located to the north of the Cabo Ortegal Complex.
+
+As part of an ongoing research project, we will precise the location of seismicity by using two seismic networks onshore and offshore and will collect samples at the edge of the continental platform ahead of the shores of “Cabo Ortegal”.
+
+**References**
+
+_Alvarez-Marrón, J., Rubio, E., Torné, M., 1997. Subduction-related structures in the North Iberian Margin. Journal of Geophysical Research 102 (B10), 22497–22511._
+
+_Ayarza, P., Martínez-Catalán, J.R., Alvarez-Marrón, J., Zeyen, H., Juhlin, C., 2004. Geophysical constraints on the deep structure of a limited ocean-continent subduction zone at the North Iberian Margin. Tectonics 23, http://dx.doi.org/10.1029/2002TC001487_
+
+_Brown, D., Llana-Fúnez, S., Carbonell, R., Alvarez-Marron, J., Marti, D., Salisbury, M.H., 2009. Laboratory measurements of P-wave and S-wave velocities across a surface analog of the continental crust-mantle boundary: Cabo Ortegal, Spain. Earth and Planetary Science Letters 285, 27–38, https://doi.org/10.1016/j.epsl.2009.05.032_
+
+_Cadenas, P., Fernández-Viejo, G., Pulgar, J.A., Tugend, J., Manatschal, G., Minshull, T., 2018. Constraints imposed by rift inheritance on the compressional reactivation of a hyperextend- ed margin: Mapping rift domains in the north Iberian margin and in the Cantabrian Mountains. Tectonics 37, 758–785, https://doi.org/10.1002/2016TC004454_
+
+_Fernández-Viejo, G., Pulgar, J. A., Gallastegui, J., and Quintana, L. (2012). The fossil accretionary wedge of the Bay of Biscay: critical wedge analysis on depth migrated seismic sections and geodynamical implications. J. Geology 120, 315–331. https://doi.org/10.1086/664789_
+
+_Fernández-Viejo, G., Cadenas, P., Acevedo, J., Llana-Fúnez, S., 2021a. The unevenness of the north Iberian crustal root, a snapshot of an elusive stage in margin reactivation. Geology 49, 1426–1430. https://doi.org/10.1130/G49341.1_
+
+_Fernández-Viejo, G., Llana-Fúnez, S., Acevedo, J., López-Fernández, C. 2021b. The Cantabrian Fault at Sea. Low Magnitude Seismicity and Its Significance Within a Stable Setting. Frontiers Earth Sciences 9:645061. https://doi.org/10.3389/feart.2021.645061_
+
+_Teixell, A., Labaume, P., Ayarza, P., Espurt, N., de Saint Blanquat, M., Lagabrielle, Y. 2018. Crustal structure and evolution of the Pyrenean- Cantabrian belt: A review and new interpretations from recent concepts and data: Tectonophysics 724, 146–170, https://doi.org/10.1016/j.tecto.2018.01.009_
+
+_Tugend, J., Manatschal, G., Kusznir, N.J., 2015. Spatial and temporal evolution of hyperextended rift systems: Implication for the nature, kinematics and timing of the Iberian-European plate boundary. Geology 43(1), 15-18. https://doi.org/10.1130/G36072.1_
+
 
 ---
 
@@ -2064,4 +2104,4 @@ _Vogel, D.E., 1967. Petrology of an eclogite- and pyrigarnite- bearing polymetam
 
 Go to https://lherzolite2024.github.io/
 
-Last update 2024-09-24
+Last update 2024-10-01
