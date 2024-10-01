@@ -134,7 +134,7 @@ _Xiong, Q., Dai, H.K., Zheng, J.P., Griffin, W.L., Zheng, H.D., Wang, L., O’Re
 ---
 ## Day 1: second block
 
-> Convener: Andréa Tommasi
+> Convener: José Alberto Padrón-Navarta
 
 ### How dry is the Kaapvaal craton?
 
@@ -225,7 +225,7 @@ Our results highlight the indirect role of preceding monogenetic upwelling chann
 
 ## Day 1: third block
 
-> Convener: TO SET
+> Convener: Basil Tikoff
 
 ### Deformation, Rheology and Seismic Anisotropy in the Lithospheric Mantle beneath the North Anatolian Fault
 
@@ -299,7 +299,7 @@ _Soustelle, V., Tommasi, A., Demouchy, S., Ionov, D. 2010. Deformation and fluid
 
 ## Day 1: fourth block
 
-> Convener: TO SET
+> Convener: Carlos Garrido
 
 ### Unveiling mantle heterogeneity in a modern OCT: new insights from the West Iberian margin (ODP Leg 149 and 173)
 
@@ -448,7 +448,7 @@ _Mendia, M., Gil Ibarguchi, J.I., Ábalos, B., 2001. Evolución metamórfica P-T
 
 ## Day 2: first block
 
-> Convener: TO SET
+> Convener: Olivier Alard
 
 ### Hydrogen Deep Water Cycle
 
@@ -540,7 +540,7 @@ Carbon is strongly linked to the geochemistry of large-ion lithophile elements (
 
 ## Day 2: second block
 
-> Convener: TO SET
+> Convener: Vasileos Chatzaras
 
 ### Petrological characteristics of subarc ultramafic xenoliths: Lanyu Island (Taiwan) in the Luzon magmatic arc
 
@@ -623,7 +623,7 @@ _Ogunyele, Abimbola C., et al. «Accretion of “Young” Phanerozoic Subcontine
 
 ## Day 2: third block
 
-> Convener: TO SET
+> Convener: Sarah Lambart
 
 ### Oceanic mantle refertilization via melt-harzburgite reaction: an experimental study at 1-2 GPa
 
@@ -687,7 +687,7 @@ _Borghini, G., Fumagalli, P., Rampone, E., 2022. Melt-rock interactions in a vei
 
 ## Day 2: fourth block
 
-> Convener: TO SET
+> Convener: Romain Tilhac
 
 ### Progressive strain localization and fluid focusing in mantle shear zones during rifting: petrostructural constraints from the Zabargad peridotites, Red Sea
 
@@ -752,7 +752,7 @@ In this study, we use a set of yet little explored dredged and drilled samples f
 
 ## Day 2: fifth block
 
-> Convener: TO SET
+> Convener: Sylvie Demouchy
 
 ### Fingerprinting metasomatic agent in the Styrian Basin mantle xenoliths via 3D Raman mapping of complex inclusions
 
@@ -841,7 +841,7 @@ Buoyant ultramafic-rich (serpentine- or chlorite-rich) mélange diapirs in sedim
 
 ## Day 3: first block
 
-> Convener: TO SET
+> Convener: José Alberto Padrón-Navarta
 
 ### Mantle Olivine Geochemistry
 
@@ -944,7 +944,7 @@ _Vitale Brovarone, A., Groppo, C., Hetényi, G., Compagnoni, R. & Malavieille, J
 
 ## Day 3: second block
 
-> Convener: TO SET
+> Convener: Marguerite Godard
 
 ### Partial melting and mantle-melts interactions at the Diamantina zone: insights on the mantle evolution during lithospheric break-up
 
@@ -1006,7 +1006,7 @@ _**Figure 1.** (a) Anhydrous melting/refertilization model for low-depleted harz
 
 ## Day 3: third block
 
-> Convener: TO SET
+> Convener: Andréa Tommasi
 
 ### Iceland plume sustained by upwelling of melt-depleted, buoyant peridotites
 
