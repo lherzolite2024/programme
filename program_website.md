@@ -540,7 +540,7 @@ Carbon is strongly linked to the geochemistry of large-ion lithophile elements (
 
 ## Day 2: second block
 
-> Convener: Vasileos Chatzaras
+> Convener: 
 
 ### Petrological characteristics of subarc ultramafic xenoliths: Lanyu Island (Taiwan) in the Luzon magmatic arc
 
@@ -841,7 +841,7 @@ Buoyant ultramafic-rich (serpentine- or chlorite-rich) mélange diapirs in sedim
 
 ## Day 3: first block
 
-> Convener: José Alberto Padrón-Navarta
+> Convener: Marguerite Godard
 
 ### Mantle Olivine Geochemistry
 
@@ -944,7 +944,7 @@ _Vitale Brovarone, A., Groppo, C., Hetényi, G., Compagnoni, R. & Malavieille, J
 
 ## Day 3: second block
 
-> Convener: Marguerite Godard
+> Convener: Vasileios Chatzaras
 
 ### Partial melting and mantle-melts interactions at the Diamantina zone: insights on the mantle evolution during lithospheric break-up
 
@@ -1006,7 +1006,7 @@ _**Figure 1.** (a) Anhydrous melting/refertilization model for low-depleted harz
 
 ## Day 3: third block
 
-> Convener: Andréa Tommasi
+> Convener: Marco A. Lopez-Sanchez
 
 ### Iceland plume sustained by upwelling of melt-depleted, buoyant peridotites
 
